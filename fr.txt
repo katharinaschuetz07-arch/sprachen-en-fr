@@ -1,0 +1,1248 @@
+Französisch;Deutsch;Wortart
+abandonner;aufgeben, verlassen;Verb
+accepter;akzeptieren, annehmen;Verb
+accompagner;begleiten;Verb
+acheter;kaufen;Verb
+adorer;anbeten, sehr mögen;Verb
+aider;helfen;Verb
+aimer;lieben, mögen;Verb
+aller;gehen, fahren;Verb
+amener;bringen (Person);Verb
+apporter;bringen (Ding), mitbringen;Verb
+apparaître;erscheinen;Verb
+apprendre;lernen;Verb
+applaudir;applaudieren, klatschen;Verb
+arrêter;anhalten, stoppen;Verb
+arriver;ankommen;Verb
+arroser;gießen;Verb
+attraper;fangen, schnappen;Verb
+avancer;vorrücken, vorwärtsgehen;Verb
+avoir;haben;Verb
+abeille;Biene;Substantiv
+achat;Kauf;Substantiv
+acteur;Schauspieler;Substantiv
+adresse;Adresse;Substantiv
+aéroport;Flughafen;Substantiv
+âge;Alter;Substantiv
+aiguille;Nadel;Substantiv
+aile;Flügel;Substantiv
+album;Album;Substantiv
+allumette;Streichholz;Substantiv
+ami;Freund;Substantiv
+amie;Freundin;Substantiv
+amour;Liebe;Substantiv
+ampoule;Glühbirne;Substantiv
+animal;Tier;Substantiv
+an;Jahr;Substantiv
+année;Jahr;Substantiv
+apéritif;Aperitif;Substantiv
+arbre;Baum;Substantiv
+arc-en-ciel;Regenbogen;Substantiv
+argent;Geld;Substantiv
+armoire;Schrank;Substantiv
+artiste;Künstler;Substantiv
+article;Artikel, Gegenstand;Substantiv
+ascenseur;Aufzug;Substantiv
+aubergine;Aubergine;Substantiv
+auto;Auto;Substantiv
+autobus;Autobus;Substantiv
+automne;Herbst;Substantiv
+autoroute;Autobahn;Substantiv
+avion;Flugzeug;Substantiv
+avis;Meinung;Substantiv
+avocat;Anwalt;Substantiv
+absent;abwesend;Adjektiv
+adorable;bezaubernd;Adjektiv
+agréable;angenehm;Adjektiv
+aimable;freundlich, liebenswürdig;Adjektiv
+allemand;deutsch;Adjektiv
+ancien;alt, ehemalig;Adjektiv
+anglais;englisch;Adjektiv
+autre;anderer;Adjektiv
+bas;niedrig;Adjektiv
+bavarder;plaudern, schwatzen;Verb
+baisser;senken, herunterlassen;Verb
+battre;schlagen;Verb
+boire;trinken;Verb
+briller;leuchten, glänzen;Verb
+brûler;brennen;Verb
+balai;Besen;Substantiv
+ballon;Ball, Luftballon;Substantiv
+banane;Banane;Substantiv
+bande;Band, Gruppe;Substantiv
+bar;Bar;Substantiv
+bateau;Boot, Schiff;Substantiv
+bâtiment;Gebäude;Substantiv
+beau-frère;Schwager;Substantiv
+belle-mère;Schwiegermutter;Substantiv
+besoin;Bedürfnis, Not;Substantiv
+bête;Tier (altes Wort), dumme Person;Substantiv
+bibliothèque;Bibliothek;Substantiv
+bicyclette;Fahrrad;Substantiv
+bien;Gut, Wohl;Substantiv
+bille;Murmel;Substantiv
+biscuit;Keks;Substantiv
+blanc;Weiß;Substantiv
+blé;Weizen;Substantiv
+blessure;Verletzung;Substantiv
+bœuf;Rind, Rindfleisch;Substantiv
+bois;Wald, Holz;Substantiv
+bonbon;Bonbon;Substantiv
+bonheur;Glück;Substantiv
+bonnet;Mütze;Substantiv
+bord;Rand, Ufer;Substantiv
+botte;Stiefel;Substantiv
+bouche;Mund;Substantiv
+boucher;Fleischer;Substantiv
+boucle;Schleife, Locke;Substantiv
+boulanger;Bäcker;Substantiv
+boule;Kugel;Substantiv
+bourse;Börse, Geldbörse, Stipendium;Substantiv
+boutique;Geschäft, Boutique;Substantiv
+boxeur;Boxer;Substantiv
+bracelet;Armband;Substantiv
+branche;Zweig;Substantiv
+bras;Arm;Substantiv
+brebis;Mutterschaf;Substantiv
+brindille;Zweiglein, Reisig;Substantiv
+brosse;Bürste;Substantiv
+brouillard;Nebel;Substantiv
+bruit;Lärm, Geräusch;Substantiv
+brunette;Brünette;Substantiv
+buffet;Buffet, Anrichte;Substantiv
+bureau;Büro, Schreibtisch;Substantiv
+beau;schön;Adjektiv
+belle;schön (weiblich);Adjektiv
+bon;gut;Adjektiv
+bizarre;seltsam;Adjektiv
+bleu;blau;Adjektiv
+blond;blond;Adjektiv
+brave;brav, gutmütig;Adjektiv
+brûlant;glühend, brennend;Adjektiv
+bruyant;laut;Adjektiv
+cacher;verstecken;Verb
+calculer;rechnen, berechnen;Verb
+calmer;beruhigen;Verb
+camper;campen, zelten;Verb
+capturer;einfangen;Verb
+céder;nachgeben, abtreten;Verb
+célébrer;feiern;Verb
+changer;wechseln, ändern;Verb
+chanter;singen;Verb
+charger;laden, beladen;Verb
+chasser;jagen;Verb
+chercher;suchen;Verb
+choisir;wählen;Verb
+chuchoter;flüstern;Verb
+commencer;anfangen, beginnen;Verb
+comprendre;verstehen;Verb
+compter;zählen;Verb
+conduire;fahren (Auto);Verb
+connaître;kennen;Verb
+construire;bauen;Verb
+continuer;fortfahren;Verb
+coucher;hinlegen, schlafen (sich);Verb
+courir;laufen, rennen;Verb
+couper;schneiden;Verb
+craindre;fürchten;Verb
+crier;rufen, schreien;Verb
+cuisiner;kochen;Verb
+cabane;Hütte, Laube;Substantiv
+câble;Kabel;Substantiv
+cadeau;Geschenk;Substantiv
+café;Kaffee, Café;Substantiv
+cahier;Heft;Substantiv
+caisse;Kasse, Kiste;Substantiv
+calendrier;Kalender;Substantiv
+camarade;Kamerad, Freund;Substantiv
+camion;Lastwagen;Substantiv
+campagne;Landschaft, Feldzug;Substantiv
+canapé;Sofa;Substantiv
+canard;Ente;Substantiv
+cannelle;Zimt;Substantiv
+capitaine;Kapitän;Substantiv
+carotte;Karotte;Substantiv
+carte;Karte;Substantiv
+cartable;Schulranzen;Substantiv
+cascade;Wasserfall;Substantiv
+casquette;Kappe, Mütze;Substantiv
+chaise;Stuhl;Substantiv
+chaleur;Wärme, Hitze;Substantiv
+chambre;Zimmer;Substantiv
+champ;Feld;Substantiv
+chandail;Pullover;Substantiv
+chanson;Lied, Chanson;Substantiv
+chant;Gesang;Substantiv
+chapeau;Hut;Substantiv
+charbon;Kohle;Substantiv
+chariot;Wagen, Einkaufswagen;Substantiv
+chat;Kater;Substantiv
+château;Schloss;Substantiv
+chaud;Wärme;Substantiv
+chef;Chef, Küchenchef;Substantiv
+chemin;Weg;Substantiv
+chemise;Hemd;Substantiv
+chèvre;Ziege;Substantiv
+chien;Hund;Substantiv
+chiffre;Zahl, Ziffer;Substantiv
+chocolat;Schokolade;Substantiv
+chose;Sache, Ding;Substantiv
+chou;Kohl;Substantiv
+cigarette;Zigarette;Substantiv
+cinéma;Kino;Substantiv
+circulation;Verkehr, Kreislauf;Substantiv
+citron;Zitrone;Substantiv
+citrouille;Kürbis;Substantiv
+clair;Klar, Licht;Substantiv
+classe;Klasse;Substantiv
+clé;Schlüssel;Substantiv
+client;Kunde;Substantiv
+clou;Nagel;Substantiv
+cochon;Schwein;Substantiv
+coeur;Herz;Substantiv
+colle;Klebstoff;Substantiv
+collier;Halskette;Substantiv
+comédie;Komödie;Substantiv
+comète;Komet;Substantiv
+commerce;Handel, Geschäft;Substantiv
+congé;Urlaub, freier Tag;Substantiv
+connaissance;Kenntnis, Bekanntschaft;Substantiv
+conserves;Konserven;Substantiv
+conte;Märchen, Erzählung;Substantiv
+copain;Kumpel, Freund;Substantiv
+coq;Hahn;Substantiv
+coque;Schale, Muschel;Substantiv
+coucher;Sonnenuntergang (le coucher du soleil);Substantiv
+cour;Hof;Substantiv
+courrier;Post;Substantiv
+course;Lauf, Einkauf;Substantiv
+crayon;Bleistift;Substantiv
+crème;Sahne, Creme;Substantiv
+crevette;Garnele, Krabbe;Substantiv
+crime;Verbrechen;Substantiv
+crayon de couleur;Buntstift;Substantiv
+curiosité;Neugier;Substantiv
+calme;ruhig;Adjektiv
+capable;fähig;Adjektiv
+célèbre;berühmt;Adjektiv
+certain;gewiss, sicher;Adjektiv
+chaud;warm, heiß;Adjektiv
+cher;teuer, lieb;Adjektiv
+clair;hell, klar;Adjektiv
+content;zufrieden;Adjektiv
+courageux;mutig;Adjektiv
+curieux;neugierig, seltsam;Adjektiv
+danser;tanzen;Verb
+demander;fragen, verlangen;Verb
+déranger;stören;Verb
+détester;hassen;Verb
+devenir;werden;Verb
+dépenser;ausgeben, verbrauchen;Verb
+devoir;müssen;Verb
+dîner;zu Abend essen;Verb
+donner;geben, schenken;Verb
+dormir;schlafen;Verb
+descendre;hinuntersteigen;Verb
+dessiner;zeichnen;Verb
+deviner;raten, erraten;Verb
+distribuer;verteilen;Verb
+divorcer;sich scheiden lassen;Verb
+défendre;verteidigen, verbieten;Verb
+dauphin;Delfin;Substantiv
+déclaration;Erklärung, Anmeldung;Substantiv
+drapeau;Flagge;Substantiv
+dent;Zahn;Substantiv
+dentiste;Zahnarzt;Substantiv
+départ;Abfahrt, Abreise;Substantiv
+désert;Wüste;Substantiv
+dessert;Nachtisch;Substantiv
+deux;Zwei;Substantiv
+dimanche;Sonntag;Substantiv
+dîner;Abendessen;Substantiv
+docteur;Arzt;Substantiv
+doigt;Finger;Substantiv
+dommage;Schade, Schaden;Substantiv
+eau;Wasser;Substantiv
+éclair;Blitz;Substantiv
+école;Schule;Substantiv
+écolier;Schüler;Substantiv
+écran;Bildschirm;Substantiv
+écriture;Schrift, Schriftstück;Substantiv
+église;Kirche;Substantiv
+élan;Elch, Schwung;Substantiv
+épaule;Schulter;Substantiv
+épicier;Lebensmittelhändler;Substantiv
+épice;Gewürz;Substantiv
+épingle;Stecknadel;Substantiv
+époque;Epoche, Zeit;Substantiv
+équipe;Mannschaft;Substantiv
+escalier;Treppe;Substantiv
+espace;Raum, Weltraum;Substantiv
+espérance;Hoffnung, Erwartung;Substantiv
+esprit;Geist, Verstand;Substantiv
+est;Osten;Substantiv
+état;Zustand, Staat;Substantiv
+été;Sommer;Substantiv
+étoile;Stern;Substantiv
+étoile filante;Sternschnuppe;Substantiv
+étranger;Ausländer, Fremder;Substantiv
+étude;Studium, Studierstube;Substantiv
+éventail;Fächer;Substantiv
+examen;Prüfung;Substantiv
+exemple;Beispiel;Substantiv
+expérience;Erfahrung;Substantiv
+écrire;schreiben;Verb
+écouter;zuhören, hören;Verb
+élever;erheben, aufziehen;Verb
+emmener;mitnehmen (Person);Verb
+envoyer;schicken, senden;Verb
+épouser;heiraten;Verb
+étudier;studieren, lernen;Verb
+éteindre;ausschalten, ausmachen;Verb
+étonner;erstaunen;Verb
+échange;Austausch, Tausch;Substantiv
+échantillon;Muster, Probe;Substantiv
+échelle;Leiter;Substantiv
+éclaircie;Aufhellung;Substantiv
+écolière;Schülerin;Substantiv
+économie;Wirtschaft, Ersparnis;Substantiv
+édifice;Bauwerk, Gebäude;Substantiv
+éducation;Erziehung, Bildung;Substantiv
+éleveur;Tierzüchter;Substantiv
+émail;Emaille, Emails;Substantiv
+émeraude;Smaragd;Substantiv
+émotion;Gefühl, Emotion;Substantiv
+empereur;Kaiser;Substantiv
+emploi;Arbeit, Gebrauch;Substantiv
+employé;Angestellter;Substantiv
+épée;Degen;Substantiv
+épisode;Episode;Substantiv
+érable;Ahorn;Substantiv
+erreur;Fehler;Substantiv
+essai;Versuch;Substantiv
+essence;Benzin, Wesen;Substantiv
+étudiante;Studentin;Substantiv
+éveil;Aufwachen, Weckung;Substantiv
+exposition;Ausstellung;Substantiv
+éclairer;beleuchten;Verb
+économe;sparsam;Adjektiv
+épais;dick;Adjektiv
+électrique;elektrisch;Adjektiv
+élégant;elegant;Adjektiv
+éloquent;beredt;Adjektiv
+émerveillé;erstaunt, entzückt;Adjektiv
+émouvoir;bewegen (herzlich);Verb
+énorme;riesig, enorm;Adjektiv
+épuisant;erschöpfend;Adjektiv
+époustouflant;umwerfend;Adjektiv
+étrange;seltsam;Adjektiv
+fabriquer;herstellen;Verb
+faire;machen, tun;Verb
+falloir;nötig sein (es braucht);Verb
+fatiguer;müde machen;Verb
+fêter;feiern;Verb
+féliciter;beglückwünschen;Verb
+fermer;schließen;Verb
+finir;beenden, enden;Verb
+flotter;flattern, schwimmen;Verb
+fondre;schmelzen, zergehen;Verb
+frapper;klopfen, schlagen;Verb
+frissonner;frösteln, schauern;Verb
+fuir;fliehen;Verb
+fumer;rauchen;Verb
+fabrique;Fabrik;Substantiv
+facteur;Briefträger, Faktor;Substantiv
+faiblesse;Schwäche;Substantiv
+faim;Hunger;Substantiv
+faisan;Fasan;Substantiv
+famille;Familie;Substantiv
+farine;Mehl;Substantiv
+fatigue;Müdigkeit;Substantiv
+faute;Fehler, Verfehlung;Substantiv
+fauteuil;Sessel;Substantiv
+faveur;Gunst, Gefallen;Substantiv
+fée;Fee;Substantiv
+félicitations;Glückwünsche;Substantiv
+femme;Frau, Ehefrau;Substantiv
+fête;Fest, Feier;Substantiv
+feu;Feuer, Licht;Substantiv
+feuille;Blatt;Substantiv
+fève;Bohne;Substantiv
+fiançailles;Verlobung;Substantiv
+ficelle;Schnur;Substantiv
+fille;Mädchen, Tochter;Substantiv
+film;Film;Substantiv
+fils;Sohn;Substantiv
+fils électrique;Kabel;Substantiv
+fleur;Blume;Substantiv
+fleuriste;Blumenhändler;Substantiv
+flocon;Flocke;Substantiv
+foin;Heu;Substantiv
+fois;Mal (wie oft);Substantiv
+forêt;Wald;Substantiv
+forgeron;Schmied;Substantiv
+fort;Stärke;Substantiv
+forteresse;Festung;Substantiv
+fou;Verrückter;Substantiv
+fougère;Farn;Substantiv
+four;Ofen;Substantiv
+fourmi;Ameise;Substantiv
+foyer;Heim, Herd;Substantiv
+frais;Kosten;Substantiv
+fraise;Erdbeere;Substantiv
+fromage;Käse;Substantiv
+front;Stirn, Front;Substantiv
+fumée;Rauch;Substantiv
+faible;schwach;Adjektiv
+facile;leicht;Adjektiv
+fâché;verärgert;Adjektiv
+fatigué;müde;Adjektiv
+fauve;gelbbraun, wild;Adjektiv
+féroce;wild, grimmig;Adjektiv
+fiable;zuverlässig;Adjektiv
+fidèle;treu;Adjektiv
+fier;stolz;Adjektiv
+fin;dünn, fein;Adjektiv
+frais;frisch, kühl;Adjektiv
+franc;frei, offen;Adjektiv
+froid;kalt;Adjektiv
+fou;verrückt;Adjektiv
+gagner;gewinnen, verdienen;Verb
+garder;behüten, aufbewahren;Verb
+glisser;gleiten, rutschen;Verb
+goûter;kosten, probieren;Verb
+griller;rösten, grillen;Verb
+grimper;klettern;Verb
+gronder;schelten, brummen;Verb
+guérir;heilen, genesen;Verb
+gant;Handschuh;Substantiv
+gare;Bahnhof;Substantiv
+gâteau;Torte, Kuchen;Substantiv
+général;General;Substantiv
+genou;Knie;Substantiv
+genre;Art, Gattung;Substantiv
+gens;Leute;Substantiv
+gentillesse;Liebenswürdigkeit;Substantiv
+girafe;Giraffe;Substantiv
+glace;Eis, Spiegel;Substantiv
+golf;Golf;Substantiv
+gomme;Radiergummi;Substantiv
+gondole;Gondel;Substantiv
+goutte;Tropfen;Substantiv
+gouvernement;Regierung;Substantiv
+graine;Korn, Samen;Substantiv
+grenouille;Frosch;Substantiv
+griffe;Kralle;Substantiv
+gris;Grau;Substantiv
+grive;Drossel;Substantiv
+grotte;Grotte;Substantiv
+groupe;Gruppe;Substantiv
+guitare;Gitarre;Substantiv
+généreux;großzügig;Adjektiv
+gentil;nett, liebenswürdig;Adjektiv
+grand;groß;Adjektiv
+gras;fettig, dick;Adjektiv
+gratuit;kostenlos;Adjektiv
+grave;ernst, schwer;Adjektiv
+gros;dick, groß;Adjektiv
+habiter;wohnen;Verb
+happer;schnappen;Verb
+hacher;hacken;Verb
+se hâter;sich beeilen;Verb
+haïr;hassen;Verb
+hésiter;zögern;Verb
+haleine;Atem;Substantiv
+hameau;Weiler, Dörfchen;Substantiv
+hameçon;Angelhaken;Substantiv
+harpe;Harfe;Substantiv
+hasard;Zufall;Substantiv
+haie;Hecke;Substantiv
+hauteur;Höhe;Substantiv
+herbe;Gras, Kraut;Substantiv
+hélice;Propeller, Schraube;Substantiv
+hérisson;Igel;Substantiv
+heurtoir;Türklopfen (Klopfer);Substantiv
+hibou;Uhu, Kauz;Substantiv
+hier;gestern;Substantiv
+histoire;Geschichte;Substantiv
+hiver;Winter;Substantiv
+hommage;Ehre, Huldigung;Substantiv
+homme;Mann;Substantiv
+hôpital;Krankenhaus;Substantiv
+horaire;Zeitplan, Fahrplan;Substantiv
+hortensia;Hortensie;Substantiv
+hôtel;Hotel;Substantiv
+huile;Öl;Substantiv
+huit;Acht;Substantiv
+humeur;Laune, Stimmung;Substantiv
+humour;Humor;Substantiv
+hurlement;Heulen;Substantiv
+hurler;heulen, schreien;Verb
+heureux;glücklich;Adjektiv
+haut;hoch;Adjektiv
+honnête;ehrlich;Adjektiv
+horrible;furchtbar;Adjektiv
+humide;feucht;Adjektiv
+honteux;schamhaft, schändlich;Adjektiv
+identifier;identifizieren;Verb
+ignorer;nicht kennen, ignorieren;Verb
+illustrer;illustrieren;Verb
+imaginer;sich vorstellen;Verb
+imiter;imitieren;Verb
+imposer;auferlegen;Verb
+importer;importieren;Verb
+imprimer;drucken;Verb
+inclure;einschließen;Verb
+indiquer;angeben, zeigen;Verb
+influencer;beeinflussen;Verb
+informer;informieren;Verb
+injurier;beleidigen;Verb
+innover;erneuern, innovieren;Verb
+inscrire;eintragen, einschreiben;Verb
+insister;bestehen (auf);Verb
+inviter;einladen;Verb
+irriguer;bewässern;Verb
+jaser;plappern;Verb
+jeter;werfen;Verb
+joindre;verbinden, beitreten;Verb
+jurer;schwören;Verb
+justifier;rechtfertigen;Verb
+jouer;spielen;Verb
+juger;urteilen;Verb
+jambe;Bein;Substantiv
+jambon;Schinken;Substantiv
+janvier;Januar;Substantiv
+jardin;Garten;Substantiv
+jasmin;Jasmin;Substantiv
+jaune;Gelb;Substantiv
+javelot;Speer, Wurfspieß;Substantiv
+jeu;Spiel;Substantiv
+jeudi;Donnerstag;Substantiv
+jeunesse;Jugend;Substantiv
+joie;Freude;Substantiv
+joueur;Spieler;Substantiv
+jour;Tag;Substantiv
+journal;Zeitung;Substantiv
+journée;Tag (Zeitraum);Substantiv
+juge;Richter;Substantiv
+juillet;Juli;Substantiv
+juin;Juni;Substantiv
+jument;Stute;Substantiv
+jupon;Unterrock;Substantiv
+joli;hübsch, niedlich;Adjektiv
+jaloux;eifersüchtig;Adjektiv
+jaune;gelb;Adjektiv
+jeune;jung;Adjektiv
+juste;gerecht, genau;Adjektiv
+kidnapper;entführen;Verb
+kilomètre;Kilometer;Substantiv
+kimono;Kimono;Substantiv
+kiosque;Kiosk;Substantiv
+ketchup;Ketchup;Substantiv
+klaxon;Hupe;Substantiv
+laisser;lassen, zurücklassen;Verb
+lécher;lecken;Verb
+lire;lesen;Verb
+lutter;kämpfen, ringen;Verb
+lever;aufheben, aufstehen;Verb
+libérer;befreien;Verb
+laver;waschen;Verb
+lancer;werfen, starten;Verb
+louer;mieten, loben;Verb
+lune;Mond;Substantiv
+lard;Speck;Substantiv
+lait;Milch;Substantiv
+laitue;Kopfsalat;Substantiv
+lampe;Lampe;Substantiv
+langue;Sprache, Zunge;Substantiv
+lapin;Kaninchen;Substantiv
+largeur;Breite;Substantiv
+larme;Träne;Substantiv
+livre;Buch;Substantiv
+légume;Gemüse;Substantiv
+lecture;Lektüre;Substantiv
+lettre;Brief, Buchstabe;Substantiv
+lever du soleil;Sonnenaufgang;Substantiv
+lèvre;Lippe;Substantiv
+liberté;Freiheit;Substantiv
+ligne;Linie;Substantiv
+limace;Schnecke;Substantiv
+limonade;Limonade;Substantiv
+lion;Löwe;Substantiv
+liste;Liste;Substantiv
+lit;Bett;Substantiv
+littérature;Literatur;Substantiv
+loisir;Freizeit, Vergnügen;Substantiv
+longueur;Länge;Substantiv
+loup;Wolf;Substantiv
+lumière;Licht;Substantiv
+lundi;Montag;Substantiv
+lustre;Kronleuchter;Substantiv
+luxe;Luxus;Substantiv
+lycée;Gymnasium;Substantiv
+libre;frei;Adjektiv
+lent;langsam;Adjektiv
+léger;leicht (Gewicht);Adjektiv
+long;lang;Adjektiv
+lourd;schwer;Adjektiv
+laid;hässlich;Adjektiv
+manger;essen;Verb
+manquer;fehlen, vermissen;Verb
+marcher;laufen, gehen;Verb
+montrer;zeigen;Verb
+mettre;setzen, stellen, legen;Verb
+monter;steigen, ersteigen;Verb
+mourir;sterben;Verb
+nager;schwimmen;Verb
+naître;geboren werden;Verb
+noyer;ertränken, ertrinken;Verb
+nourrir;ernähren, füttern;Verb
+machine;Maschine;Substantiv
+madame;gnädige Frau, Madame;Substantiv
+mademoiselle;Fräulein, junge Frau;Substantiv
+magasin;Geschäft, Laden;Substantiv
+maison;Haus;Substantiv
+maîtresse;Lehrerin, Herrin;Substantiv
+mal;Übel, Schmerz;Substantiv
+maladie;Krankheit;Substantiv
+malheur;Unglück;Substantiv
+maman;Mama, Mutter;Substantiv
+mandarine;Mandarine;Substantiv
+manche;Ärmel, Griff;Substantiv
+marché;Markt;Substantiv
+mardi;Dienstag;Substantiv
+mari;Ehemann;Substantiv
+mariage;Hochzeit, Ehe;Substantiv
+marin;Seemann;Substantiv
+marron;Kastanie, braun;Substantiv
+mars;März;Substantiv
+masque;Maske;Substantiv
+matin;Morgen;Substantiv
+mayonnaise;Mayonnaise;Substantiv
+médecin;Arzt;Substantiv
+mercredi;Mittwoch;Substantiv
+mère;Mutter;Substantiv
+mesure;Maß;Substantiv
+métal;Metall;Substantiv
+météo;Wetterbericht;Substantiv
+météore;Meteore;Substantiv
+méthode;Methode;Substantiv
+métro;Metro, U-Bahn;Substantiv
+meunier;Müller;Substantiv
+midi;Mittag, Süden;Substantiv
+miette;Krume;Substantiv
+mille;Tausend;Substantiv
+million;Million;Substantiv
+minute;Minute;Substantiv
+miroir;Spiegel;Substantiv
+mode;Mode, Art;Substantiv
+modèle;Modell, Vorbild;Substantiv
+moineau;Sperling;Substantiv
+mois;Monat;Substantiv
+moitié;Hälfte;Substantiv
+monde;Welt;Substantiv
+monsieur;Herr, Monsieur;Substantiv
+montagne;Berg;Substantiv
+monument;Denkmal, Bauwerk;Substantiv
+morue;Kabeljau;Substantiv
+moto;Motorrad;Substantiv
+mouche;Fliege;Substantiv
+moulin;Mühle;Substantiv
+mousse;Moos, Schaum;Substantiv
+mouton;Schaf;Substantiv
+mur;Wand, Mauer;Substantiv
+musée;Museum;Substantiv
+musique;Musik;Substantiv
+mystère;Mysterium, Geheimnis;Substantiv
+mauvais;schlecht;Adjektiv
+méchant;böse;Adjektiv
+mignon;niedlich;Adjektiv
+mince;schlank, dünn;Adjektiv
+modeste;bescheiden;Adjektiv
+mou;weich;Adjektiv
+murmurer;murmeln;Verb
+nation;Nation;Substantiv
+nature;Natur;Substantiv
+navet;Rübe, Navette;Substantiv
+neige;Schnee;Substantiv
+neveu;Neffe;Substantiv
+niveau;Niveau, Ebene;Substantiv
+nombre;Zahl, Anzahl;Substantiv
+nord;Norden;Substantiv
+norme;Norm;Substantiv
+nourriture;Nahrung, Essen;Substantiv
+nouvelle;Nachricht, Novelle;Substantiv
+novembre;November;Substantiv
+nuage;Wolke;Substantiv
+nuance;Schattierung, Nuance;Substantiv
+nuque;Nacken;Substantiv
+noir;schwarz;Adjektiv
+nombreux;zahlreich;Adjektiv
+nouveau;neu;Adjektiv
+nul;nichtig, null;Adjektiv
+nylon;Nylon;Substantiv
+obéir;gehorchen;Verb
+observer;beobachten;Verb
+obtenir;erhalten, erlangen;Verb
+offrir;anbieten, schenken;Verb
+organiser;organisieren;Verb
+oser;wagen;Verb
+oublier;vergessen;Verb
+ouvrir;öffnen;Verb
+objet;Gegenstand, Objekt;Substantiv
+océan;Ozean;Substantiv
+octobre;Oktober;Substantiv
+odeur;Geruch;Substantiv
+œil;Auge;Substantiv
+œuf;Ei;Substantiv
+oie;Gans;Substantiv
+ombre;Schatten;Substantiv
+oncle;Onkel;Substantiv
+ongle;Fingernagel;Substantiv
+orage;Gewitter, Unwetter;Substantiv
+orchestre;Orchester;Substantiv
+ordinateur;Computer;Substantiv
+oreille;Ohr;Substantiv
+organe;Organ;Substantiv
+orgueil;Stolz, Hochmut;Substantiv
+ours;Bär;Substantiv
+outil;Werkzeug;Substantiv
+ouest;Westen;Substantiv
+ouvrage;Werk, Arbeit;Substantiv
+oiseau;Vogel;Substantiv
+obligatoire;obligatorisch, Pflicht-;Adjektiv
+obscur;dunkel, düster;Adjektiv
+occupé;beschäftigt;Adjektiv
+officiel;offiziell;Adjektiv
+optimiste;optimistisch;Adjektiv
+or;golden;Adjektiv
+orchidée;Orchidee;Substantiv
+ordre;Ordnung, Befehl;Substantiv
+oreiller;Kissen;Substantiv
+pardonner;verzeihen, vergeben;Verb
+parler;sprechen, reden;Verb
+partir;weggehen, abfahren;Verb
+passer;vorbeigehen, verbringen;Verb
+payer;zahlen, bezahlen;Verb
+penser;denken;Verb
+perdre;verlieren;Verb
+permettre;erlauben;Verb
+peser;wiegen;Verb
+pêcher;fischen;Verb
+peindre;malen;Verb
+pleuvoir;regnen;Verb
+pleurer;weinen;Verb
+plier;falten, falten;Verb
+porter;tragen;Verb
+pousser;schieben, drücken;Verb
+pouvoir;können;Verb
+prendre;nehmen;Verb
+préparer;vorbereiten;Verb
+présenter;vorstellen, präsentieren;Verb
+prêter;leihen, verleihen;Verb
+profiter;nutzen, genießen;Verb
+protéger;schützen;Verb
+prouver;beweisen;Verb
+punir;bestrafen;Verb
+pain;Brot;Substantiv
+paix;Frieden;Substantiv
+palais;Palast;Substantiv
+pantalon;Hose;Substantiv
+papillon;Schmetterling;Substantiv
+parapluie;Regenschirm;Substantiv
+pardon;Verzeihung, Entschuldigung;Substantiv
+parent;Elternteil, Verwandter;Substantiv
+parfum;Parfüm, Duft;Substantiv
+parole;Wort, Rede;Substantiv
+partie;Teil, Partie;Substantiv
+partage;Aufteilung, Teilung;Substantiv
+pas;Schritt, nicht;Substantiv
+passage;Durchgang, Übergang;Substantiv
+passager;Passagier;Substantiv
+passion;Leidenschaft;Substantiv
+pâtes;Nudeln, Teigwaren;Substantiv
+pâtisserie;Konditorei, Gebäck;Substantiv
+pauvreté;Armut;Substantiv
+pavot;Mohn;Substantiv
+pêche;Pfirsich;Substantiv
+peinture;Malerei, Farbe;Substantiv
+pelle;Schaufel;Substantiv
+pente;Abhang, Gefälle;Substantiv
+période;Zeitraum, Periode;Substantiv
+permis;Erlaubnis, Führerschein;Substantiv
+personne;Person, niemand;Substantiv
+perte;Verlust;Substantiv
+peur;Angst;Substantiv
+pharmacie;Apotheke;Substantiv
+philosophie;Philosophie;Substantiv
+photo;Foto;Substantiv
+phrase;Satz;Substantiv
+piano;Klavier;Substantiv
+pièce;Zimmer, Stück, Münze;Substantiv
+pied;Fuß;Substantiv
+pierre;Stein;Substantiv
+pilote;Pilot;Substantiv
+piscine;Schwimmbad;Substantiv
+plage;Strand;Substantiv
+plaine;Ebene, Flur;Substantiv
+plante;Pflanze;Substantiv
+plastique;Plastik;Substantiv
+plat;Teller, Gericht;Substantiv
+plume;Feder, Federkiel;Substantiv
+poids;Gewicht;Substantiv
+poire;Birne;Substantiv
+poireau;Lauch, Porree;Substantiv
+poisson;Fisch;Substantiv
+poivre;Pfeffer;Substantiv
+police;Polizei;Substantiv
+pomme;Apfel;Substantiv
+pommes de terre;Kartoffeln;Substantiv
+poney;Pony;Substantiv
+pont;Brücke;Substantiv
+porte;Tür;Substantiv
+porte-monnaie;Geldbeutel;Substantiv
+portrait;Porträt;Substantiv
+pot;Topf;Substantiv
+poule;Huhn (Henne);Substantiv
+poulet;Hähnchen;Substantiv
+printemps;Frühling;Substantiv
+prix;Preis;Substantiv
+problème;Problem;Substantiv
+professeur;Lehrer, Professor;Substantiv
+promenade;Spaziergang;Substantiv
+prudence;Vorsicht, Klugheit;Substantiv
+puits;Brunnen;Substantiv
+papa;Papa, Vater;Substantiv
+parc;Park;Substantiv
+parking;Parkplatz;Substantiv
+patinage;Eislauf;Substantiv
+pâturage;Weide, Weideland;Substantiv
+pauvre;arm;Adjektiv
+pâle;blass;Adjektiv
+parfait;perfekt;Adjektiv
+passionné;leidenschaftlich;Adjektiv
+patient;geduldig;Adjektiv
+petit;klein;Adjektiv
+pittoresque;malerisch;Adjektiv
+plaisir;Vergnügen, Freude;Substantiv
+plein;voll;Adjektiv
+poli;höflich;Adjektiv
+possible;möglich;Adjektiv
+propre;sauber, eigen;Adjektiv
+prêt;bereit, fertig;Adjektiv
+prudent;vorsichtig, klug;Adjektiv
+questionner;befragen;Verb
+quitter;verlassen (Ort);Verb
+querelle;Streit, Zank;Substantiv
+question;Frage;Substantiv
+quai;Kai, Bahnsteig;Substantiv
+quartier;Viertel, Stadtteil;Substantiv
+quarante;Vierzig;Substantiv
+quatre;Vier;Substantiv
+quinze;Fünfzehn;Substantiv
+quiche;Herzoginnenpastetchen;Substantiv
+quand;wann;Sonstiges
+qualité;Qualität;Substantiv
+quantité;Menge, Quantität;Substantiv
+ramasser;aufheben, aufsammeln;Verb
+ranger;aufräumen, einordnen;Verb
+rater;verpassen, misslingen;Verb
+rayer;durchstreichen;Verb
+recevoir;empfangen, erhalten;Verb
+raconter;erzählen;Verb
+rappeler;erinnern, zurückrufen;Verb
+reconnaître;wiedererkennen, anerkennen;Verb
+refuser;ablehnen, verweigern;Verb
+regarder;schauen, ansehen;Verb
+rêver;träumen;Verb
+rester;bleiben;Verb
+remercier;danken;Verb
+rencontrer;treffen, begegnen;Verb
+rendre;zurückgeben, machen (jemanden);Verb
+réparer;reparieren;Verb
+répondre;antworten;Verb
+reposer;ausruhen (sich);Verb
+rire;lachen;Verb
+rouler;rollen, fahren;Verb
+race;Rasse, Wettrennen;Substantiv
+raisin;Traube;Substantiv
+raison;Vernunft, Grund;Substantiv
+rame;Ruder;Substantiv
+rampe;Geländer;Substantiv
+ranch;Ranch;Substantiv
+rapport;Bericht, Verhältnis;Substantiv
+rat;Ratte;Substantiv
+rayon;Regal, Strahl, Abteilung;Substantiv
+réalité;Wirklichkeit;Substantiv
+récolte;Ernte;Substantiv
+récréation;Pause (Schulhof), Erholung;Substantiv
+rédaction;Aufsatz, Redaktion;Substantiv
+reflet;Abbild, Widerschein;Substantiv
+réfrigérateur;Kühlschrank;Substantiv
+regard;Blick;Substantiv
+régime;Diät, Regime;Substantiv
+règle;Regel, Lineal;Substantiv
+rêve;Traum;Substantiv
+revue;Zeitschrift, Revue;Substantiv
+riz;Reis;Substantiv
+robe;Kleid;Substantiv
+robot;Roboter;Substantiv
+roi;König;Substantiv
+rond;Runde, Kreis;Substantiv
+rose;Rose, Rosa;Substantiv
+roue;Rad;Substantiv
+rouge;Rot;Substantiv
+rouille;Rost;Substantiv
+rouleau;Rolle, Walze;Substantiv
+route;Straße, Route;Substantiv
+rue;Straße;Substantiv
+ruisseau;Bächlein, Bach;Substantiv
+réussite;Erfolg;Substantiv
+renard;Fuchs;Substantiv
+reine;Königin;Substantiv
+religion;Religion;Substantiv
+remède;Heilmittel, Mittel;Substantiv
+rencontre;Begegnung, Treffen;Substantiv
+renne;Ren;Substantiv
+repas;Mahlzeit;Substantiv
+réponse;Antwort;Substantiv
+rivage;Ufer;Substantiv
+rivière;Fluss;Substantiv
+rapide;schnell;Adjektiv
+ravi;erfreut;Adjektiv
+réel;wirklich, real;Adjektiv
+régulier;regelmäßig;Adjektiv
+riche;reich;Adjektiv
+rigolo;lustig, witzig;Adjektiv
+rond;rund;Adjektiv
+rouge;rot;Adjektiv
+sauter;springen;Verb
+savoir;wissen, können;Verb
+sembler;scheinen;Verb
+sentir;riechen, fühlen;Verb
+servir;bedienen, dienen;Verb
+skier;Ski fahren;Verb
+souffler;blasen;Verb
+soulever;hochheben;Verb
+sourire;lächeln;Verb
+soupirer;seufzen;Verb
+salade;Salat;Substantiv
+salle;Saal, Raum;Substantiv
+salut;Gruß, Heil;Substantiv
+samedi;Samstag;Substantiv
+sang;Blut;Substantiv
+sanglier;Wildschwein;Substantiv
+santé;Gesundheit;Substantiv
+sapin;Tanne, Fichte;Substantiv
+sardine;Sardine;Substantiv
+sauce;Soße;Substantiv
+saucisse;Wurst, Bratwurst;Substantiv
+saule;Weide (Baum);Substantiv
+sauna;Sauna;Substantiv
+saut;Sprung;Substantiv
+sauveteur;Retter;Substantiv
+savane;Savanne;Substantiv
+savoir-faire;Know-how, Gewandtheit;Substantiv
+sceptre;Zepter;Substantiv
+science;Wissenschaft;Substantiv
+secours;Hilfe, Beistand;Substantiv
+secrétaire;Sekretär(in);Substantiv
+section;Abschnitt;Substantiv
+sécurité;Sicherheit;Substantiv
+seigneur;Herr, Landherr;Substantiv
+semaine;Woche;Substantiv
+septembre;September;Substantiv
+sentier;Pfad, Fußweg;Substantiv
+sentiment;Gefühl, Empfindung;Substantiv
+série;Reihe, Serie;Substantiv
+serment;Schwur;Substantiv
+serpent;Schlange;Substantiv
+serre;Gewächshaus, Kralle;Substantiv
+serviette;Handtuch, Serviette;Substantiv
+seuil;Schwelle;Substantiv
+sieste;Mittagsschlaf;Substantiv
+siècle;Jahrhundert;Substantiv
+sifflet;Trillerpfeife, Pfeifen;Substantiv
+silence;Stille, Schweigen;Substantiv
+singe;Affe;Substantiv
+sirène;Sirene, Meerjungfrau;Substantiv
+sirop;Sirup;Substantiv
+situation;Lage, Situation;Substantiv
+soie;Seide;Substantiv
+soif;Durst;Substantiv
+soir;Abend;Substantiv
+soirée;Abend (Veranstaltung), Abendgesellschaft;Substantiv
+soleil;Sonne;Substantiv
+solitude;Einsamkeit;Substantiv
+sommeil;Schlaf;Substantiv
+sommet;Gipfel, Höhepunkt;Substantiv
+sonnette;Klingel, Glocke;Substantiv
+sorcier;Zauberer, Hexenmeister;Substantiv
+sortie;Ausgang, Ausflug;Substantiv
+souci;Kummer, Sorge;Substantiv
+soulier;Schuh;Substantiv
+souris;Maus;Substantiv
+sourire;Lächeln;Substantiv
+souvenir;Andenken, Erinnerung;Substantiv
+soupe;Suppe;Substantiv
+spectacle;Vorstellung, Schauspiel;Substantiv
+sphère;Kugel, Sphäre;Substantiv
+sport;Sport;Substantiv
+stylo;Kuli, Stift;Substantiv
+stylo-plume;Füllfederhalter;Substantiv
+sucre;Zucker;Substantiv
+sud;Süden;Substantiv
+suite;Folge, Fortsetzung;Substantiv
+sujet;Thema, Betreff;Substantiv
+surface;Oberfläche;Substantiv
+table;Tisch;Substantiv
+taille;Größe, Taille;Substantiv
+tante;Tante;Substantiv
+tapis;Teppich;Substantiv
+tarte;Torte, Kuchen;Substantiv
+temps;Zeit, Wetter;Substantiv
+talon;Ferse, Absatz;Substantiv
+tambour;Trommel;Substantiv
+tapisserie;Tapete, Gobelin;Substantiv
+tarif;Preisverzeichnis, Tarif;Substantiv
+taureau;Stier;Substantiv
+téléphone;Telefon;Substantiv
+télévision;Fernseher;Substantiv
+tempête;Sturm, Unwetter;Substantiv
+température;Temperatur;Substantiv
+temple;Tempel;Substantiv
+tennis;Tennis;Substantiv
+tente;Zelt;Substantiv
+terrasse;Terrasse;Substantiv
+thé;Tee;Substantiv
+théâtre;Theater;Substantiv
+tigre;Tiger;Substantiv
+timbre;Briefmarke;Substantiv
+tiroir;Schublade;Substantiv
+toit;Dach;Substantiv
+tomate;Tomate;Substantiv
+tonnerre;Donner;Substantiv
+tortue;Schildkröte;Substantiv
+tour;Turm, Runde, Drehung;Substantiv
+touriste;Tourist;Substantiv
+train;Zug;Substantiv
+trait;Zug, Strich;Substantiv
+tram;Straßenbahn;Substantiv
+travail;Arbeit;Substantiv
+trésor;Schatz;Substantiv
+tristesse;Traurigkeit;Substantiv
+trompette;Trompete;Substantiv
+truite;Forelle;Substantiv
+satisfait;zufrieden;Adjektiv
+sage;brav, klug;Adjektiv
+sain;gesund;Adjektiv
+sale;schmutzig;Adjektiv
+salé;gesalzen;Adjektiv
+seul;allein;Adjektiv
+sérieux;ernsthaft;Adjektiv
+simple;einfach;Adjektiv
+sombre;düster, finster;Adjektiv
+sourd;taub;Adjektiv
+sportif;sportlich;Adjektiv
+sûr;sicher, gewiss;Adjektiv
+doux;sanft, süß;Adjektiv
+talentueux;talentiert;Adjektiv
+tendre;zart, weich;Adjektiv
+terrible;schrecklich;Adjektiv
+timide;schüchtern;Adjektiv
+total;Gesamt-;Adjektiv
+triste;traurig;Adjektiv
+unir;vereinen;Verb
+utiliser;benutzen, verwenden;Verb
+uniforme;Uniform;Substantiv
+univers;Universum, Weltall;Substantiv
+urne;Urne;Substantiv
+usine;Fabrik;Substantiv
+ustensile;Utensilie, Werkzeug;Substantiv
+unique;einzigartig;Adjektiv
+utile;nützlich;Adjektiv
+urgent;dringend;Adjektiv
+vacances;Urlaub, Ferien;Substantiv
+vache;Kuh;Substantiv
+vague;Welle;Substantiv
+valise;Koffer;Substantiv
+vallée;Tal;Substantiv
+vapeur;Dampf;Substantiv
+vase;Vase;Substantiv
+veau;Kalb (Fleisch);Substantiv
+vent;Wind;Substantiv
+verre;Glas;Substantiv
+vélo;Fahrrad;Substantiv
+vendange;Weinlese;Substantiv
+vendredi;Freitag;Substantiv
+ventre;Bauch;Substantiv
+verger;Obstgarten;Substantiv
+vérité;Wahrheit;Substantiv
+verre de vin;Weinglas;Substantiv
+verrou;Riegel, Schloss;Substantiv
+viande;Fleisch;Substantiv
+victoire;Sieg;Substantiv
+vie;Leben;Substantiv
+village;Dorf;Substantiv
+ville;Stadt;Substantiv
+vinaigre;Essig;Substantiv
+vin;Wein;Substantiv
+violon;Geige, Violine;Substantiv
+visage;Gesicht;Substantiv
+visite;Besuch;Substantiv
+vitesse;Geschwindigkeit;Substantiv
+voiture;Auto;Substantiv
+voisin;Nachbar;Substantiv
+voix;Stimme;Substantiv
+vol;Flug, Diebstahl;Substantiv
+volcan;Vulkan;Substantiv
+volet;Fensterladen;Substantiv
+volonté;Wille, Wollen;Substantiv
+voyage;Reise;Substantiv
+wagon;Waggon, Wagen;Substantiv
+wagon-restaurant;Speisewagen;Substantiv
+xylophone;Xylophon;Substantiv
+yaourt;Joghurt;Substantiv
+yeux;Augen;Substantiv
+zèbre;Zebra;Substantiv
+zéro;Null;Substantiv
+zone;Zone;Substantiv
+zoo;Zoo;Substantiv
+vert;grün;Adjektiv
+vieux;alt;Adjektiv
+vrai;wahr;Adjektiv
+vide;leer;Adjektiv
+vilain;hässlich, gemein;Adjektiv
+vif;lebhaft;Adjektiv
+vaillant;tapfer;Adjektiv
+bonjour;Guten Tag, Hallo;Sonstiges
+bonsoir;Guten Abend;Sonstiges
+bonne nuit;Gute Nacht;Sonstiges
+salut;Hallo!, Tschüss!;Sonstiges
+au revoir;Auf Wiedersehen;Sonstiges
+merci;Danke;Sonstiges
+merci beaucoup;Vielen Dank;Sonstiges
+de rien;Gern geschehen, Nichts zu danken;Sonstiges
+s'il vous plaît;Bitte (Höflichkeitsform);Sonstiges
+oui;Ja;Sonstiges
+non;Nein;Sonstiges
+peut-être;Vielleicht;Sonstiges
+excusez-moi;Entschuldigen Sie;Sonstiges
+je suis désolé(e);Es tut mir leid;Sonstiges
+comment allez-vous?;Wie geht es Ihnen?;Sonstiges
+ça va?;Wie geht's?;Sonstiges
+ça va bien;Mir geht es gut;Sonstiges
+et vous?;Und Sie?;Sonstiges
+comment vous appelez-vous?;Wie heißen Sie?;Sonstiges
+je m'appelle Katharina;Ich heiße Katharina;Sonstiges
+enchanté(e);Freut mich, Sie kennenzulernen;Sonstiges
+je ne comprends pas;Ich verstehe nicht;Sonstiges
+parlez-vous allemand?;Sprechen Sie Deutsch?;Sonstiges
+parlez-vous anglais?;Sprechen Sie Englisch?;Sonstiges
+je parle un peu français;Ich spreche ein wenig Französisch;Sonstiges
+pouvez-vous répéter, s'il vous plaît?;Können Sie das bitte wiederholen?;Sonstiges
+plus lentement, s'il vous plaît;Bitte langsamer;Sonstiges
+quelle heure est-il?;Wie viel Uhr ist es?;Sonstiges
+il est midi;Es ist zwölf Uhr mittags;Sonstiges
+quel jour sommes-nous?;Welcher Tag ist heute?;Sonstiges
+aujourd'hui;heute;Sonstiges
+demain;morgen;Sonstiges
+hier soir;gestern Abend;Sonstiges
+à bientôt;Bis bald;Sonstiges
+à demain;Bis morgen;Sonstiges
+à tout à l'heure;Bis später;Sonstiges
+bon appétit;Guten Appetit;Sonstiges
+bon voyage;Gute Reise;Sonstiges
+bonne chance;Viel Glück;Sonstiges
+bon courage;Viel Erfolg, gute Kraft;Sonstiges
+félicitations;Glückwünsche;Sonstiges
+joyeux anniversaire;Alles Gute zum Geburtstag;Sonstiges
+joyeux Noël;Frohe Weihnachten;Sonstiges
+bonne année;Frohes neues Jahr;Sonstiges
+où sont les toilettes?;Wo ist die Toilette?;Sonstiges
+combien ça coûte?;Wie viel kostet das?;Sonstiges
+c'est trop cher;Das ist zu teuer;Sonstiges
+je voudrais un café;Ich hätte gern einen Kaffee;Sonstiges
+l'addition, s'il vous plaît;Die Rechnung, bitte;Sonstiges
+je voudrais réserver une table;Ich möchte einen Tisch reservieren;Sonstiges
+avez-vous une chambre libre?;Haben Sie ein freies Zimmer?;Sonstiges
+j'ai besoin d'aide;Ich brauche Hilfe;Sonstiges
+appelez un médecin!;Rufen Sie einen Arzt!;Sonstiges
+je suis perdu(e);Ich habe mich verlaufen;Sonstiges
+où est la gare?;Wo ist der Bahnhof?;Sonstiges
+où est l'arrêt de bus?;Wo ist die Bushaltestelle?;Sonstiges
+un billet pour Paris, s'il vous plaît;Eine Fahrkarte nach Paris, bitte;Sonstiges
+à quelle heure part le train?;Wann fährt der Zug ab?;Sonstiges
+je voudrais acheter du pain;Ich möchte Brot kaufen;Sonstiges
+c'est délicieux;Das ist köstlich;Sonstiges
+j'ai faim;Ich habe Hunger;Sonstiges
+j'ai soif;Ich habe Durst;Sonstiges
+j'ai froid;Mir ist kalt;Sonstiges
+j'ai chaud;Mir ist warm;Sonstiges
+je suis fatigué(e);Ich bin müde;Sonstiges
+je t'aime;Ich liebe dich;Sonstiges
+bien sûr;natürlich;Sonstiges
+d'accord;einverstanden;Sonstiges
+pas de problème;kein Problem;Sonstiges
+ça marche;das funktioniert, einverstanden;Sonstiges
+tout de suite;sofort, gleich;Sonstiges
+tout à fait;ganz genau, völlig;Sonstiges
+au fur et à mesure;nach und nach;Sonstiges
+tout d'un coup;plötzlich, ganz plötzlich;Sonstiges
+petit à petit;Schritt für Schritt, allmählich;Sonstiges
+de temps en temps;von Zeit zu Zeit;Sonstiges
+il pleut des cordes;es gießt in Strömen;Sonstiges
+avoir le cafard;schwarzgallig sein, deprimiert sein;Sonstiges
+coûter les yeux de la tête;ein Vermögen kosten;Sonstiges
+tomber dans les pommes;in Ohnmacht fallen;Sonstiges
+poser un lapin à quelqu'un;jemanden versetzen;Sonstiges
+avoir un chat dans la gorge;heiser sein (wörtl.: eine Katze im Hals haben);Sonstiges
+être comme un poisson dans l'eau;sich pudelwohl fühlen;Sonstiges
+ne rien faire de ses dix doigts;keinen Finger rühren;Sonstiges
+appeler un chat un chat;den Vogel beim Namen nennen (wörtl.: die Katze Katze nennen);Sonstiges
+dormir comme un loir;schlafen wie ein Murmeltier;Sonstiges
+être aux anges;im siebten Himmel sein;Sonstiges
+raconter des salades;Märchen erzählen, Unsinn reden;Sonstiges
+faire la grasse matinée;ausschlafen;Sonstiges
+prendre la poudre d'escampette;sich aus dem Staub machen;Sonstiges
+un temps de chien;ein Sauwetter;Sonstiges
+avoir le cœur sur la main;ein großes Herz haben;Sonstiges
+c'est du gâteau;das ist ein Kinderspiel;Sonstiges
+mon petit chou;mein Schatz, mein Liebling;Sonstiges
+quelle bonne idée;was für eine gute Idee;Sonstiges
+je n'ai pas le temps;Ich habe keine Zeit;Sonstiges
+je suis d'accord avec vous;Ich stimme Ihnen zu;Sonstiges
+à mon avis;meiner Meinung nach;Sonstiges
+en tout cas;jedenfalls;Sonstiges
+parce que;weil;Sonstiges
+mais;aber;Sonstiges
+et;und;Sonstiges
+ou;oder;Sonstiges
+aussi;auch;Sonstiges
+toujours;immer;Sonstiges
+jamais;niemals;Sonstiges
+maintenant;jetzt;Sonstiges
+bientôt;bald;Sonstiges
+souvent;oft;Sonstiges
+beaucoup;viel;Sonstiges
+un peu;ein bisschen, ein wenig;Sonstiges
+très;sehr;Sonstiges
+ici;hier;Sonstiges
+là;da, dort;Sonstiges
+vite;schnell;Sonstiges
+lentement;langsam;Sonstiges
+ensemble;zusammen;Sonstiges
+tout seul;ganz allein;Sonstiges
+de nouveau;wieder, erneut;Sonstiges
+presque;fast, beinahe;Sonstiges
+déjà;bereits, schon;Sonstiges
+encore;noch, nochmals;Sonstiges
+enfin;endlich;Sonstiges
+heureusement;zum Glück;Sonstiges
+malheureusement;leider;Sonstiges
+peut-être que oui;vielleicht ja;Sonstiges
+c'est la vie;so ist das Leben;Sonstiges
+bonne journée;schönen Tag noch;Sonstiges
+bonne soirée;schönen Abend noch;Sonstiges
+bonne continuation;alles Gute weiter;Sonstiges
+porte-bonheur;Glücksbringer;Sonstiges

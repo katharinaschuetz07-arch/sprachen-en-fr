@@ -1,0 +1,1221 @@
+Englisch;Deutsch;Wortart
+abandon;aufgeben, verlassen;Verb
+accept;akzeptieren, annehmen;Verb
+achieve;erreichen, erzielen;Verb
+act;handeln, schauspielern;Verb
+add;hinzufügen, ergänzen;Verb
+admire;bewundern;Verb
+admit;zugeben, zulassen;Verb
+adopt;adoptieren, übernehmen;Verb
+advance;vorrücken, vorantreiben;Verb
+advise;raten, beraten;Verb
+agree;zustimmen, einverstanden sein;Verb
+allow;erlauben, zulassen;Verb
+answer;antworten, beantworten;Verb
+apologize;sich entschuldigen;Verb
+appear;erscheinen;Verb
+apply;bewerben (um), anwenden;Verb
+argue;streiten, argumentieren;Verb
+arrange;arrangieren, vereinbaren;Verb
+arrive;ankommen;Verb
+ask;fragen, bitten;Verb
+apple;Apfel;Substantiv
+airplane;Flugzeug;Substantiv
+airport;Flughafen;Substantiv
+alley;Gasse;Substantiv
+angle;Winkel;Substantiv
+animal;Tier;Substantiv
+ankle;Knöchel;Substantiv
+arrow;Pfeil;Substantiv
+art;Kunst;Substantiv
+artist;Künstler;Substantiv
+ash;Asche;Substantiv
+aunt;Tante;Substantiv
+autumn;Herbst;Substantiv
+axe;Axt;Substantiv
+agenda;Tagesordnung;Substantiv
+alphabet;Alphabet;Substantiv
+ambassador;Botschafter;Substantiv
+ambition;Ehrgeiz;Substantiv
+anchor;Anker;Substantiv
+able;fähig;Adjektiv
+afraid;ängstlich, verängstigt;Adjektiv
+angry;wütend, ärgerlich;Adjektiv
+awake;wach;Adjektiv
+absent;abwesend;Adjektiv
+amazing;erstaunlich;Adjektiv
+ancient;alt, antik;Adjektiv
+attractive;attraktiv;Adjektiv
+average;durchschnittlich;Adjektiv
+awful;schrecklich;Adjektiv
+bake;backen;Verb
+balance;balancieren;Verb
+bark;bellen;Verb
+bathe;baden;Verb
+battle;kämpfen (Schlacht);Verb
+bear;tragen, gebären;Verb
+beat;schlagen;Verb
+become;werden;Verb
+begin;anfangen, beginnen;Verb
+behave;sich benehmen;Verb
+belong;gehören (zu);Verb
+bend;biegen, beugen;Verb
+bite;beißen;Verb
+blow;blasen;Verb
+boil;kochen (Wasser);Verb
+borrow;leihen (von);Verb
+break;zerbrechen;Verb
+bring;bringen;Verb
+build;bauen;Verb
+burn;brennen;Verb
+burst;platzen;Verb
+buy;kaufen;Verb
+baby;Baby;Substantiv
+back;Rücken;Substantiv
+bacon;Speck;Substantiv
+bag;Tasche;Substantiv
+ball;Ball;Substantiv
+banana;Banane;Substantiv
+bank;Bank;Substantiv
+basket;Korb;Substantiv
+bath;Bad;Substantiv
+beach;Strand;Substantiv
+bed;Bett;Substantiv
+bee;Biene;Substantiv
+beef;Rindfleisch;Substantiv
+beer;Bier;Substantiv
+bell;Glocke;Substantiv
+belt;Gürtel;Substantiv
+berry;Beere;Substantiv
+bicycle;Fahrrad;Substantiv
+bad;schlecht;Adjektiv
+beautiful;schön;Adjektiv
+best;bester;Adjektiv
+better;besser;Adjektiv
+big;groß;Adjektiv
+bitter;bitter;Adjektiv
+brave;mutig;Adjektiv
+bright;hell, klug;Adjektiv
+busy;beschäftigt;Adjektiv
+call;anrufen, rufen;Verb
+camp;campen;Verb
+care;sich kümmern (um);Verb
+carry;tragen;Verb
+catch;fangen;Verb
+cause;verursachen;Verb
+celebrate;feiern;Verb
+change;ändern, wechseln;Verb
+chase;verfolgen;Verb
+check;prüfen;Verb
+chew;kauen;Verb
+choose;wählen;Verb
+clean;putzen, sauber machen;Verb
+climb;klettern;Verb
+close;schließen;Verb
+collect;sammeln;Verb
+come;kommen;Verb
+cook;kochen;Verb
+count;zählen;Verb
+cover;bedecken;Verb
+cry;weinen, schreien;Verb
+cut;schneiden;Verb
+cake;Kuchen;Substantiv
+calendar;Kalender;Substantiv
+camera;Kamera;Substantiv
+candle;Kerze;Substantiv
+captain;Kapitän;Substantiv
+car;Auto;Substantiv
+carrot;Karotte;Substantiv
+castle;Schloss;Substantiv
+cat;Katze;Substantiv
+cave;Höhle;Substantiv
+chair;Stuhl;Substantiv
+chalk;Kreide;Substantiv
+cheese;Käse;Substantiv
+cherry;Kirsche;Substantiv
+chicken;Huhn;Substantiv
+church;Kirche;Substantiv
+cinema;Kino;Substantiv
+circle;Kreis;Substantiv
+city;Stadt;Substantiv
+cloud;Wolke;Substantiv
+coat;Mantel;Substantiv
+coffee;Kaffee;Substantiv
+calm;ruhig;Adjektiv
+careful;sorgfältig, vorsichtig;Adjektiv
+cheap;billig;Adjektiv
+cold;kalt;Adjektiv
+comfortable;bequem;Adjektiv
+common;häufig, verbreitet;Adjektiv
+cool;kühl;Adjektiv
+crazy;verrückt;Adjektiv
+dance;tanzen;Verb
+decide;entscheiden;Verb
+decorate;schmücken;Verb
+deliver;liefern;Verb
+depend;abhängen (von);Verb
+describe;beschreiben;Verb
+deserve;verdienen;Verb
+destroy;zerstören;Verb
+die;sterben;Verb
+dig;graben;Verb
+discover;entdecken;Verb
+discuss;diskutieren;Verb
+disturb;stören;Verb
+dive;tauchen;Verb
+divide;teilen;Verb
+do;machen, tun;Verb
+draw;zeichnen;Verb
+dream;träumen;Verb
+dress;anziehen;Verb
+drink;trinken;Verb
+drive;fahren;Verb
+drop;fallen lassen;Verb
+daughter;Tochter;Substantiv
+day;Tag;Substantiv
+debt;Schuld (Geld);Substantiv
+decade;Jahrzehnt;Substantiv
+dentist;Zahnarzt;Substantiv
+desert;Wüste;Substantiv
+dinner;Abendessen;Substantiv
+dish;Geschirr, Teller;Substantiv
+dog;Hund;Substantiv
+doll;Puppe;Substantiv
+door;Tür;Substantiv
+dove;Taube;Substantiv
+duck;Ente;Substantiv
+dust;Staub;Substantiv
+diamond;Diamant;Substantiv
+daily;täglich;Adjektiv
+dark;dunkel;Adjektiv
+dead;tot;Adjektiv
+deaf;taub;Adjektiv
+deep;tief;Adjektiv
+different;anders, verschieden;Adjektiv
+difficult;schwierig;Adjektiv
+dirty;schmutzig;Adjektiv
+dry;trocken;Adjektiv
+dusty;staubig;Adjektiv
+earn;verdienen;Verb
+eat;essen;Verb
+educate;erziehen, ausbilden;Verb
+empty;leeren;Verb
+encourage;ermutigen;Verb
+enjoy;genießen;Verb
+enter;betreten;Verb
+entertain;unterhalten;Verb
+escape;fliehen, entkommen;Verb
+examine;untersuchen;Verb
+excite;begeistern;Verb
+exist;existieren;Verb
+expect;erwarten;Verb
+explain;erklären;Verb
+explore;erkunden;Verb
+express;ausdrücken;Verb
+end;enden;Verb
+eliminate;beseitigen;Verb
+emerge;auftauchen;Verb
+eagle;Adler;Substantiv
+ear;Ohr;Substantiv
+earth;Erde;Substantiv
+east;Osten;Substantiv
+egg;Ei;Substantiv
+elbow;Ellbogen;Substantiv
+elephant;Elefant;Substantiv
+elevator;Aufzug;Substantiv
+elf;Elfe;Substantiv
+engine;Motor;Substantiv
+envelope;Briefumschlag;Substantiv
+evening;Abend;Substantiv
+eye;Auge;Substantiv
+effort;Anstrengung;Substantiv
+enemy;Feind;Substantiv
+energy;Energie;Substantiv
+entrance;Eingang;Substantiv
+error;Fehler;Substantiv
+event;Ereignis;Substantiv
+example;Beispiel;Substantiv
+early;früh;Adjektiv
+easy;leicht;Adjektiv
+elegant;elegant;Adjektiv
+excellent;ausgezeichnet;Adjektiv
+expensive;teuer;Adjektiv
+extra;zusätzlich;Adjektiv
+enormous;enorm;Adjektiv
+electric;elektrisch;Adjektiv
+impatient;ungeduldig;Adjektiv
+face;konfrontieren;Verb
+fail;scheitern, misslingen;Verb
+fall;fallen;Verb
+feed;füttern;Verb
+feel;fühlen;Verb
+fight;kämpfen;Verb
+fill;füllen;Verb
+find;finden;Verb
+finish;beenden;Verb
+fish;angeln, fischen;Verb
+fit;passen;Verb
+fix;reparieren;Verb
+fly;fliegen;Verb
+follow;folgen;Verb
+forget;vergessen;Verb
+forgive;verzeihen;Verb
+fry;braten;Verb
+factory;Fabrik;Substantiv
+fairy;Fee;Substantiv
+family;Familie;Substantiv
+fan;Ventilator;Substantiv
+farm;Bauernhof;Substantiv
+fashion;Mode;Substantiv
+feather;Feder;Substantiv
+fence;Zaun;Substantiv
+field;Feld;Substantiv
+finger;Finger;Substantiv
+fire;Feuer;Substantiv
+flag;Flagge;Substantiv
+floor;Fußboden;Substantiv
+flower;Blume;Substantiv
+fog;Nebel;Substantiv
+forest;Wald;Substantiv
+fork;Gabel;Substantiv
+fox;Fuchs;Substantiv
+future;Zukunft;Substantiv
+fun;Spaß;Substantiv
+fridge;Kühlschrank;Substantiv
+fair;gerecht;Adjektiv
+false;falsch;Adjektiv
+famous;berühmt;Adjektiv
+fast;schnell;Adjektiv
+fat;dick;Adjektiv
+fine;fein;Adjektiv
+first;erster;Adjektiv
+flat;flach;Adjektiv
+fresh;frisch;Adjektiv
+friendly;freundlich;Adjektiv
+gain;gewinnen;Verb
+gather;sammeln;Verb
+give;geben;Verb
+glance;blicken;Verb
+glow;leuchten, glühen;Verb
+glue;kleben;Verb
+grab;greifen;Verb
+grin;grinsen;Verb
+grow;wachsen, anbauen;Verb
+guess;raten;Verb
+guard;bewachen;Verb
+guide;führen, leiten;Verb
+greet;grüßen;Verb
+grill;grillen;Verb
+game;Spiel;Substantiv
+garden;Garten;Substantiv
+gate;Tor;Substantiv
+ghost;Gespenst;Substantiv
+girl;Mädchen;Substantiv
+glass;Glas;Substantiv
+glove;Handschuh;Substantiv
+goat;Ziege;Substantiv
+gold;Gold;Substantiv
+grass;Gras;Substantiv
+grave;Grab;Substantiv
+guitar;Gitarre;Substantiv
+grandfather;Großvater;Substantiv
+grandmother;Großmutter;Substantiv
+group;Gruppe;Substantiv
+guest;Gast;Substantiv
+gun;Gewehr;Substantiv
+garage;Garage;Substantiv
+galaxy;Galaxie;Substantiv
+gap;Lücke;Substantiv
+gift;Geschenk;Substantiv
+harbour;Hafen;Substantiv
+hero;Held;Substantiv
+hay;Heu;Substantiv
+gentle;sanft;Adjektiv
+giant;riesig;Adjektiv
+glad;froh;Adjektiv
+good;gut;Adjektiv
+great;großartig;Adjektiv
+green;grün;Adjektiv
+grey;grau;Adjektiv
+guilty;schuldig;Adjektiv
+grand;groß, prächtig;Adjektiv
+gorgeous;wunderschön;Adjektiv
+grateful;dankbar;Adjektiv
+hammer;hämmern;Verb
+handle;behandeln;Verb
+hang;hängen;Verb
+happen;passieren;Verb
+hate;hassen;Verb
+heal;heilen;Verb
+hear;hören;Verb
+help;helfen;Verb
+hide;verstecken;Verb
+hit;treffen, schlagen;Verb
+hold;halten;Verb
+hope;hoffen;Verb
+hunt;jagen;Verb
+hurry;sich beeilen;Verb
+harm;schaden;Verb
+heat;heizen;Verb
+hire;engagieren, mieten;Verb
+hair;Haar;Substantiv
+half;Hälfte;Substantiv
+hand;Hand;Substantiv
+hat;Hut;Substantiv
+hawk;Falke;Substantiv
+head;Kopf;Substantiv
+heart;Herz;Substantiv
+heaven;Himmel;Substantiv
+hedge;Hecke;Substantiv
+hedgehog;Igel;Substantiv
+hill;Hügel;Substantiv
+hole;Loch;Substantiv
+holiday;Urlaub, Feiertag;Substantiv
+honey;Honig;Substantiv
+horse;Pferd;Substantiv
+hospital;Krankenhaus;Substantiv
+hotel;Hotel;Substantiv
+house;Haus;Substantiv
+humour;Humor;Substantiv
+hamburger;Hamburger;Substantiv
+health;Gesundheit;Substantiv
+handsome;gut aussehend;Adjektiv
+happy;glücklich;Adjektiv
+hard;hart, schwierig;Adjektiv
+healthy;gesund;Adjektiv
+heavy;schwer;Adjektiv
+high;hoch;Adjektiv
+hollow;hohl;Adjektiv
+hungry;hungrig;Adjektiv
+historic;historisch;Adjektiv
+hot;heiß;Adjektiv
+huge;riesig;Adjektiv
+helpful;hilfsbereit;Adjektiv
+ignore;ignorieren;Verb
+illustrate;illustrieren;Verb
+imagine;sich vorstellen;Verb
+imitate;imitieren;Verb
+impress;beeindrucken;Verb
+improve;verbessern;Verb
+include;einschließen;Verb
+increase;erhöhen;Verb
+introduce;vorstellen;Verb
+invent;erfinden;Verb
+invite;einladen;Verb
+iron;bügeln;Verb
+infect;infizieren;Verb
+inform;informieren;Verb
+inherit;erben;Verb
+itch;jucken;Verb
+isolate;isolieren;Verb
+ice;Eis;Substantiv
+idea;Idee;Substantiv
+igloo;Iglu;Substantiv
+illness;Krankheit;Substantiv
+image;Bild;Substantiv
+income;Einkommen;Substantiv
+industry;Industrie;Substantiv
+ink;Tinte;Substantiv
+insect;Insekt;Substantiv
+island;Insel;Substantiv
+item;Gegenstand;Substantiv
+icon;Symbol;Substantiv
+injury;Verletzung;Substantiv
+instrument;Instrument;Substantiv
+insurance;Versicherung;Substantiv
+invitation;Einladung;Substantiv
+ice cream;Eiscreme;Substantiv
+index;Register, Index;Substantiv
+ideal;ideal;Adjektiv
+ill;krank;Adjektiv
+important;wichtig;Adjektiv
+interesting;interessant;Adjektiv
+invisible;unsichtbar;Adjektiv
+icy;eisig;Adjektiv
+immediate;sofortig;Adjektiv
+immense;immens;Adjektiv
+innocent;unschuldig;Adjektiv
+intelligent;klug, intelligent;Adjektiv
+indoor;innen, im Haus;Adjektiv
+jam;stauen;Verb
+join;beitreten, verbinden;Verb
+joke;scherzen;Verb
+jog;joggen;Verb
+judge;richten, beurteilen;Verb
+jump;springen;Verb
+juggle;jonglieren;Verb
+jot;notieren;Verb
+jab;stechen;Verb
+jacket;Jacke;Substantiv
+jaguar;Jaguar;Substantiv
+jar;Glas;Substantiv
+jazz;Jazz;Substantiv
+jeep;Jeep;Substantiv
+jet;Düsenflugzeug;Substantiv
+jewel;Juwel;Substantiv
+job;Job, Arbeit;Substantiv
+journey;Reise;Substantiv
+joy;Freude;Substantiv
+juice;Saft;Substantiv
+jungle;Dschungel;Substantiv
+jury;Geschworene;Substantiv
+January;Januar;Substantiv
+jelly;Gelee, Götterspeise;Substantiv
+jug;Krug;Substantiv
+junk;Trödel;Substantiv
+jellyfish;Qualle;Substantiv
+jail;Gefängnis;Substantiv
+jaw;Kiefer;Substantiv
+jeans;Jeans;Substantiv
+jigsaw;Puzzle;Substantiv
+journal;Tagebuch, Zeitschrift;Substantiv
+jack;Wagenheber;Substantiv
+jester;Hofnarr;Substantiv
+jealous;eifersüchtig;Adjektiv
+jolly;fröhlich;Adjektiv
+juicy;saftig;Adjektiv
+junior;junior;Adjektiv
+joyful;freudig;Adjektiv
+jumpy;nervös, schreckhaft;Adjektiv
+keep;behalten;Verb
+kick;kicken, treten;Verb
+kidnap;entführen;Verb
+kill;töten;Verb
+kiss;küssen;Verb
+knit;stricken;Verb
+knock;klopfen;Verb
+know;wissen, kennen;Verb
+kneel;knien;Verb
+kangaroo;Känguru;Substantiv
+kettle;Wasserkocher;Substantiv
+key;Schlüssel;Substantiv
+keyboard;Tastatur;Substantiv
+king;König;Substantiv
+kingdom;Königreich;Substantiv
+kite;Drachen;Substantiv
+knee;Knie;Substantiv
+knife;Messer;Substantiv
+knight;Ritter;Substantiv
+knob;Knauf;Substantiv
+knot;Knoten;Substantiv
+kit;Ausrüstung, Bausatz;Substantiv
+kayak;Kajak;Substantiv
+kid;Kind;Substantiv
+kernel;Kern;Substantiv
+kitchen;Küche;Substantiv
+kiwi;Kiwi;Substantiv
+kennel;Zwinger;Substantiv
+kiosk;Kiosk;Substantiv
+ketchup;Ketchup;Substantiv
+knowledge;Wissen;Substantiv
+koala;Koala;Substantiv
+keen;eifrig, scharf (auf);Adjektiv
+kind;nett;Adjektiv
+known;bekannt;Adjektiv
+kingly;königlich;Adjektiv
+kosher;koscher;Adjektiv
+land;landen;Verb
+laugh;lachen;Verb
+launch;starten;Verb
+lay;legen;Verb
+lead;führen;Verb
+lean;lehnen;Verb
+learn;lernen;Verb
+leave;verlassen, gehen;Verb
+lend;verleihen;Verb
+let;lassen;Verb
+lie;liegen;Verb
+lift;heben;Verb
+light;anzünden;Verb
+like;mögen;Verb
+listen;zuhören;Verb
+live;leben;Verb
+lock;abschließen;Verb
+look;schauen;Verb
+lose;verlieren;Verb
+love;lieben;Verb
+label;Etikett;Substantiv
+ladder;Leiter;Substantiv
+lake;See;Substantiv
+lamb;Lamm;Substantiv
+lamp;Lampe;Substantiv
+landscape;Landschaft;Substantiv
+lane;Gasse, Spur;Substantiv
+language;Sprache;Substantiv
+leaf;Blatt;Substantiv
+letter;Brief;Substantiv
+library;Bibliothek;Substantiv
+lily;Lilie;Substantiv
+lion;Löwe;Substantiv
+lip;Lippe;Substantiv
+list;Liste;Substantiv
+lizard;Eidechse;Substantiv
+lemon;Zitrone;Substantiv
+lettuce;Kopfsalat;Substantiv
+lightning;Blitz;Substantiv
+large;groß;Adjektiv
+late;spät;Adjektiv
+lazy;faul;Adjektiv
+left;link;Adjektiv
+little;klein;Adjektiv
+lonely;einsam;Adjektiv
+long;lang;Adjektiv
+loud;laut;Adjektiv
+lucky;glücklich;Adjektiv
+lovely;liebenswürdig;Adjektiv
+make;machen;Verb
+manage;verwalten, schaffen;Verb
+marry;heiraten;Verb
+measure;messen;Verb
+meet;treffen;Verb
+melt;schmelzen;Verb
+mend;flicken;Verb
+mention;erwähnen;Verb
+miss;vermissen, verfehlen;Verb
+mix;mischen;Verb
+move;bewegen, umziehen;Verb
+mow;mähen;Verb
+machine;Maschine;Substantiv
+magazine;Zeitschrift;Substantiv
+magic;Magie;Substantiv
+magnet;Magnet;Substantiv
+mail;Post;Substantiv
+mammal;Säugetier;Substantiv
+man;Mann;Substantiv
+map;Landkarte;Substantiv
+market;Markt;Substantiv
+match;Streichholz;Substantiv
+meal;Mahlzeit;Substantiv
+meat;Fleisch;Substantiv
+medicine;Medizin;Substantiv
+melon;Melone;Substantiv
+member;Mitglied;Substantiv
+memory;Erinnerung;Substantiv
+metal;Metall;Substantiv
+middle;Mitte;Substantiv
+milk;Milch;Substantiv
+mirror;Spiegel;Substantiv
+mist;Nebel;Substantiv
+monkey;Affe;Substantiv
+month;Monat;Substantiv
+moon;Mond;Substantiv
+morning;Morgen;Substantiv
+mother;Mutter;Substantiv
+mountain;Berg;Substantiv
+mouse;Maus;Substantiv
+mouth;Mund;Substantiv
+museum;Museum;Substantiv
+mushroom;Pilz;Substantiv
+mad;verrückt;Adjektiv
+main;Haupt-;Adjektiv
+major;groß, wichtig;Adjektiv
+many;viele;Adjektiv
+married;verheiratet;Adjektiv
+mean;gemein;Adjektiv
+modern;modern;Adjektiv
+muddy;schlammig;Adjektiv
+mysterious;geheimnisvoll;Adjektiv
+name;benennen;Verb
+need;brauchen;Verb
+nest;nisten;Verb
+nod;nicken;Verb
+note;notieren;Verb
+nap;ein Nickerchen machen;Verb
+navigate;navigieren;Verb
+negotiate;verhandeln;Verb
+notice;bemerken;Verb
+nail;Nagel;Substantiv
+nation;Nation;Substantiv
+nature;Natur;Substantiv
+navy;Marine;Substantiv
+neck;Nacken;Substantiv
+needle;Nadel;Substantiv
+neighbour;Nachbar;Substantiv
+net;Netz;Substantiv
+news;Nachrichten;Substantiv
+newspaper;Zeitung;Substantiv
+night;Nacht;Substantiv
+noise;Lärm;Substantiv
+noodle;Nudel;Substantiv
+north;Norden;Substantiv
+nose;Nase;Substantiv
+number;Nummer;Substantiv
+nurse;Krankenschwester;Substantiv
+nut;Nuss;Substantiv
+narwhal;Narwal;Substantiv
+nickel;Nickel;Substantiv
+notebook;Notizbuch;Substantiv
+novelty;Neuheit;Substantiv
+nightingale;Nachtigall;Substantiv
+nutmeg;Muskatnuss;Substantiv
+narrow;eng;Adjektiv
+nasty;böse, gemein;Adjektiv
+national;national;Adjektiv
+natural;natürlich;Adjektiv
+near;nahe;Adjektiv
+neat;ordentlich;Adjektiv
+new;neu;Adjektiv
+nice;nett;Adjektiv
+noble;edel;Adjektiv
+noisy;laut;Adjektiv
+normal;normal;Adjektiv
+northern;nördlich;Adjektiv
+nervous;nervös;Adjektiv
+naked;nackt;Adjektiv
+nameless;namenlos;Adjektiv
+obey;gehorchen;Verb
+obtain;erhalten, erlangen;Verb
+occupy;einnehmen, besetzen;Verb
+offer;anbieten;Verb
+open;öffnen;Verb
+order;bestellen;Verb
+own;besitzen;Verb
+observe;beobachten;Verb
+organise;organisieren;Verb
+outline;umreißen, skizzieren;Verb
+overcome;überwinden;Verb
+offend;beleidigen;Verb
+omit;weglassen;Verb
+oak;Eiche;Substantiv
+oat;Hafer;Substantiv
+ocean;Ozean;Substantiv
+office;Büro;Substantiv
+oil;Öl;Substantiv
+olive;Olive;Substantiv
+onion;Zwiebel;Substantiv
+opera;Oper;Substantiv
+orange;Orange;Substantiv
+orchestra;Orchester;Substantiv
+oven;Ofen;Substantiv
+owl;Eule;Substantiv
+ox;Ochse;Substantiv
+oxygen;Sauerstoff;Substantiv
+object;Objekt, Gegenstand;Substantiv
+obstacle;Hindernis;Substantiv
+opinion;Meinung;Substantiv
+opportunity;Gelegenheit;Substantiv
+otter;Otter;Substantiv
+orbit;Umlaufbahn;Substantiv
+ounce;Unze;Substantiv
+ointment;Salbe;Substantiv
+opponent;Gegner;Substantiv
+odd;seltsam;Adjektiv
+old;alt;Adjektiv
+ordinary;gewöhnlich;Adjektiv
+original;originell;Adjektiv
+outstanding;herausragend;Adjektiv
+oval;oval;Adjektiv
+obvious;offensichtlich;Adjektiv
+official;offiziell;Adjektiv
+outdoor;im Freien;Adjektiv
+online;online;Adjektiv
+overdue;überfällig;Adjektiv
+optimistic;optimistisch;Adjektiv
+overall;insgesamt;Adjektiv
+paint;malen;Verb
+pass;weitergeben, bestehen;Verb
+pay;zahlen;Verb
+peel;schälen;Verb
+perform;aufführen;Verb
+pick;pflücken;Verb
+plan;planen;Verb
+play;spielen;Verb
+plug;einstöpseln;Verb
+point;zeigen (mit dem Finger);Verb
+polish;polieren;Verb
+practise;üben;Verb
+pray;beten;Verb
+prefer;bevorzugen;Verb
+prepare;vorbereiten;Verb
+press;drücken;Verb
+pretend;so tun, als ob;Verb
+prevent;verhindern;Verb
+print;drucken;Verb
+promise;versprechen;Verb
+protect;schützen;Verb
+pull;ziehen;Verb
+push;schieben;Verb
+put;setzen, stellen, legen;Verb
+packet;Päckchen;Substantiv
+page;Seite;Substantiv
+pain;Schmerz;Substantiv
+palace;Palast;Substantiv
+pan;Pfanne;Substantiv
+panda;Panda;Substantiv
+paper;Papier;Substantiv
+parent;Elternteil;Substantiv
+park;Park;Substantiv
+parrot;Papagei;Substantiv
+party;Party, Fest;Substantiv
+pasta;Pasta, Nudeln;Substantiv
+path;Pfad;Substantiv
+pear;Birne;Substantiv
+pencil;Bleistift;Substantiv
+penguin;Pinguin;Substantiv
+pet;Haustier;Substantiv
+piano;Klavier;Substantiv
+picture;Bild;Substantiv
+pigeon;Taube;Substantiv
+pilot;Flugzeugführer;Substantiv
+pineapple;Ananas;Substantiv
+plane;Flugzeug;Substantiv
+patient;geduldig;Adjektiv
+perfect;perfekt;Adjektiv
+pink;rosa;Adjektiv
+pretty;hübsch;Adjektiv
+proud;stolz;Adjektiv
+quarrel;streiten;Verb
+question;befragen, anzweifeln;Verb
+queue;Schlange stehen;Verb
+quit;aufgeben (Job);Verb
+quote;zitieren;Verb
+quench;löschen (Durst);Verb
+quiver;zittern;Verb
+quantify;quantifizieren;Verb
+qualify;qualifizieren;Verb
+quality;Qualität;Substantiv
+quantity;Menge;Substantiv
+queen;Königin;Substantiv
+quest;Suche;Substantiv
+quilt;Steppdecke;Substantiv
+quiz;Quiz;Substantiv
+quiver;Köcher;Substantiv
+quail;Wachtel;Substantiv
+quarter;Viertel;Substantiv
+quartz;Quarz;Substantiv
+quay;Kai;Substantiv
+quota;Quote;Substantiv
+questionnaire;Fragebogen;Substantiv
+quicksand;Triebsand;Substantiv
+quill;Federkiel;Substantiv
+quiche;Herzoginnenpastetchen;Substantiv
+quick;schnell;Adjektiv
+quiet;leise;Adjektiv
+quirky;schrullig;Adjektiv
+quaint;malerisch, altmodisch;Adjektiv
+queer;seltsam;Adjektiv
+questionable;fragwürdig;Adjektiv
+quotable;zitierfähig;Adjektiv
+quarterly;vierteljährlich;Adjektiv
+race;rennen (Wettrennen);Verb
+raise;erhöhen, aufziehen;Verb
+rain;regnen;Verb
+reach;erreichen;Verb
+read;lesen;Verb
+realise;begreifen, realisieren;Verb
+receive;erhalten;Verb
+recognise;wiedererkennen;Verb
+record;aufzeichnen;Verb
+recycle;recyceln;Verb
+reduce;reduzieren;Verb
+refuse;ablehnen;Verb
+relax;entspannen;Verb
+release;freigeben, freisetzen;Verb
+remember;sich erinnern;Verb
+remind;erinnern;Verb
+remove;entfernen;Verb
+repair;reparieren;Verb
+repeat;wiederholen;Verb
+reply;antworten;Verb
+rescue;retten;Verb
+rest;ruhen;Verb
+return;zurückkehren;Verb
+ride;reiten;Verb
+ring;klingeln;Verb
+rise;aufsteigen;Verb
+rob;rauben;Verb
+roll;rollen;Verb
+run;laufen;Verb
+rabbit;Hase;Substantiv
+radio;Radio;Substantiv
+rainbow;Regenbogen;Substantiv
+rat;Ratte;Substantiv
+ray;Strahl;Substantiv
+reason;Grund, Vernunft;Substantiv
+recipe;Rezept;Substantiv
+rectangle;Rechteck;Substantiv
+reef;Riff;Substantiv
+restaurant;Restaurant;Substantiv
+rhythm;Rhythmus;Substantiv
+rice;Reis;Substantiv
+river;Fluss;Substantiv
+road;Straße;Substantiv
+rocket;Rakete;Substantiv
+roof;Dach;Substantiv
+room;Zimmer;Substantiv
+rose;Rose;Substantiv
+rubbish;Müll;Substantiv
+rainy;regnerisch;Adjektiv
+rapid;schnell;Adjektiv
+rare;selten;Adjektiv
+raw;roh;Adjektiv
+ready;fertig, bereit;Adjektiv
+real;echt;Adjektiv
+red;rot;Adjektiv
+rich;reich;Adjektiv
+right;richtig;Adjektiv
+ripe;reif;Adjektiv
+royal;königlich;Adjektiv
+rude;unhöflich;Adjektiv
+round;rund;Adjektiv
+rusty;rostig;Adjektiv
+sail;segeln;Verb
+save;retten, sparen;Verb
+say;sagen;Verb
+scream;schreien;Verb
+see;sehen;Verb
+sell;verkaufen;Verb
+send;senden, schicken;Verb
+share;teilen;Verb
+shout;rufen;Verb
+show;zeigen;Verb
+sing;singen;Verb
+sit;sitzen;Verb
+sleep;schlafen;Verb
+smile;lächeln;Verb
+speak;sprechen;Verb
+spell;buchstabieren;Verb
+spend;verbringen (Zeit);Verb
+splash;planschen;Verb
+stand;stehen;Verb
+start;anfangen, starten;Verb
+stay;bleiben;Verb
+steal;stehlen;Verb
+stir;rühren;Verb
+stop;anhalten, stoppen;Verb
+study;studieren, lernen;Verb
+succeed;gelingen, Erfolg haben;Verb
+suffer;leiden;Verb
+suggest;vorschlagen;Verb
+support;unterstützen;Verb
+swim;schwimmen;Verb
+saddle;Sattel;Substantiv
+salad;Salat;Substantiv
+salt;Salz;Substantiv
+sand;Sand;Substantiv
+sandwich;Sandwich;Substantiv
+school;Schule;Substantiv
+science;Wissenschaft;Substantiv
+scissors;Schere;Substantiv
+sea;Meer;Substantiv
+season;Jahreszeit;Substantiv
+seed;Samen;Substantiv
+sheep;Schaf;Substantiv
+shelf;Regal;Substantiv
+ship;Schiff;Substantiv
+shirt;Hemd;Substantiv
+shoe;Schuh;Substantiv
+shop;Geschäft;Substantiv
+shoulder;Schulter;Substantiv
+sign;Schild, Zeichen;Substantiv
+silk;Seide;Substantiv
+silver;Silber;Substantiv
+sister;Schwester;Substantiv
+sky;Himmel;Substantiv
+snake;Schlange;Substantiv
+soap;Seife;Substantiv
+sock;Socke;Substantiv
+sofa;Sofa;Substantiv
+soldier;Soldat;Substantiv
+son;Sohn;Substantiv
+song;Lied;Substantiv
+soup;Suppe;Substantiv
+space;Weltraum, Platz;Substantiv
+spider;Spinne;Substantiv
+spoon;Löffel;Substantiv
+spring;Frühling, Feder;Substantiv
+star;Stern;Substantiv
+station;Bahnhof;Substantiv
+stone;Stein;Substantiv
+storm;Sturm;Substantiv
+story;Geschichte;Substantiv
+street;Straße;Substantiv
+sugar;Zucker;Substantiv
+summer;Sommer;Substantiv
+sun;Sonne;Substantiv
+sweater;Pullover;Substantiv
+swing;Schaukel;Substantiv
+safe;sicher;Adjektiv
+salty;salzig;Adjektiv
+same;gleich;Adjektiv
+short;kurz;Adjektiv
+shy;scheu;Adjektiv
+silent;still;Adjektiv
+slow;langsam;Adjektiv
+small;klein;Adjektiv
+smart;klug;Adjektiv
+smooth;glatt;Adjektiv
+take;nehmen;Verb
+talk;reden;Verb
+teach;unterrichten;Verb
+tell;erzählen;Verb
+test;testen;Verb
+thank;danken;Verb
+think;denken;Verb
+throw;werfen;Verb
+tie;binden;Verb
+tick;ticken;Verb
+tidy;aufräumen;Verb
+touch;berühren;Verb
+travel;reisen;Verb
+try;versuchen;Verb
+turn;drehen;Verb
+tip;kippen;Verb
+taste;schmecken;Verb
+tap;klopfen (an);Verb
+train;trainieren;Verb
+table;Tisch;Substantiv
+tail;Schwanz;Substantiv
+talent;Talent;Substantiv
+tea;Tee;Substantiv
+teacher;Lehrer;Substantiv
+team;Team;Substantiv
+telescope;Teleskop;Substantiv
+television;Fernseher;Substantiv
+tent;Zelt;Substantiv
+thunder;Donner;Substantiv
+ticket;Ticket;Substantiv
+tide;Gezeit;Substantiv
+tiger;Tiger;Substantiv
+time;Zeit;Substantiv
+tin;Blechdose;Substantiv
+toast;geröstetes Brot;Substantiv
+toe;Zeh;Substantiv
+tomato;Tomate;Substantiv
+tongue;Zunge;Substantiv
+tooth;Zahn;Substantiv
+toy;Spielzeug;Substantiv
+train;Zug;Substantiv
+tree;Baum;Substantiv
+triangle;Dreieck;Substantiv
+trip;Ausflug, Reise;Substantiv
+trumpet;Trompete;Substantiv
+tunnel;Tunnel;Substantiv
+turtle;Schildkröte;Substantiv
+tall;groß (Person);Adjektiv
+tasty;lecker;Adjektiv
+terrible;schrecklich;Adjektiv
+thick;dick;Adjektiv
+thin;dünn;Adjektiv
+thirsty;durstig;Adjektiv
+tiny;winzig;Adjektiv
+tired;müde;Adjektiv
+tough;zäh, hart;Adjektiv
+true;wahr;Adjektiv
+typical;typisch;Adjektiv
+understand;verstehen;Verb
+unite;vereinen;Verb
+use;benutzen;Verb
+underline;unterstreichen;Verb
+undo;rückgängig machen;Verb
+unfold;entfalten;Verb
+upgrade;aktualisieren, aufrüsten;Verb
+uplift;hochheben, ermutigen;Verb
+urge;drängen;Verb
+upset;verärgern, umwerfen;Verb
+utter;äußern;Verb
+unload;entladen;Verb
+unlock;aufschließen;Verb
+uphold;aufrechterhalten;Verb
+umbrella;Regenschirm;Substantiv
+uncle;Onkel;Substantiv
+unicorn;Einhorn;Substantiv
+uniform;Uniform;Substantiv
+unit;Einheit;Substantiv
+university;Universität;Substantiv
+user;Benutzer;Substantiv
+utensil;Utensilie;Substantiv
+urn;Urne;Substantiv
+uranium;Uran;Substantiv
+utility;Nutzen, Versorgung;Substantiv
+usher;Platzanweiser;Substantiv
+udder;Euter;Substantiv
+ukulele;Ukulele;Substantiv
+ulcer;Geschwür;Substantiv
+underwear;Unterwäsche;Substantiv
+unicycle;Einrad;Substantiv
+undertaker;Bestattungsunternehmer;Substantiv
+universe;Universum;Substantiv
+ugly;hässlich;Adjektiv
+unable;unfähig;Adjektiv
+underground;unterirdisch;Adjektiv
+uneven;ungleich;Adjektiv
+unhappy;unglücklich;Adjektiv
+unique;einzigartig;Adjektiv
+united;vereint;Adjektiv
+universal;universell;Adjektiv
+unknown;unbekannt;Adjektiv
+unusual;ungewöhnlich;Adjektiv
+upper;Ober-;Adjektiv
+useful;nützlich;Adjektiv
+useless;nutzlos;Adjektiv
+urgent;dringend;Adjektiv
+ultimate;letztendlich;Adjektiv
+urban;städtisch;Adjektiv
+unfair;unfair;Adjektiv
+untidy;unordentlich;Adjektiv
+upright;aufrecht;Adjektiv
+vanish;verschwinden;Verb
+visit;besuchen;Verb
+vote;wählen (Wahl);Verb
+volunteer;sich freiwillig melden;Verb
+vary;variieren;Verb
+vibrate;vibrieren;Verb
+value;schätzen (Wert);Verb
+venture;wagen (sich);Verb
+verify;überprüfen;Verb
+ventilate;lüften;Verb
+vow;schwören;Verb
+vacuum;staubsaugen;Verb
+valley;Tal;Substantiv
+van;Kleintransporter;Substantiv
+vase;Vase;Substantiv
+vegetable;Gemüse;Substantiv
+vehicle;Fahrzeug;Substantiv
+veil;Schleier;Substantiv
+vein;Vene;Substantiv
+verse;Vers;Substantiv
+version;Version;Substantiv
+video;Video;Substantiv
+view;Aussicht, Blick;Substantiv
+village;Dorf;Substantiv
+vine;Weinrebe;Substantiv
+vinegar;Essig;Substantiv
+violin;Violine;Substantiv
+virus;Virus;Substantiv
+voice;Stimme;Substantiv
+volcano;Vulkan;Substantiv
+volleyball;Volleyball;Substantiv
+vampire;Vampir;Substantiv
+velvet;Samt;Substantiv
+victory;Sieg;Substantiv
+vulture;Geier;Substantiv
+viper;Vipernatter;Substantiv
+vacation;Urlaub;Substantiv
+vast;riesig;Adjektiv
+vertical;vertikal;Adjektiv
+victorious;siegreich;Adjektiv
+violent;gewalttätig;Adjektiv
+visible;sichtbar;Adjektiv
+vital;lebenswichtig;Adjektiv
+vivid;lebendig, kräftig;Adjektiv
+valuable;wertvoll;Adjektiv
+vain;eitel;Adjektiv
+vanilla;Vanille-;Adjektiv
+versatile;vielseitig;Adjektiv
+virtual;virtuell;Adjektiv
+vocal;stimmlich;Adjektiv
+vulnerable;verletzlich;Adjektiv
+vague;vage;Adjektiv
+wait;warten;Verb
+wake;aufwachen;Verb
+walk;gehen, spazieren;Verb
+wander;wandern;Verb
+want;wollen, möchten;Verb
+warm;wärmen;Verb
+warn;warnen;Verb
+wash;waschen;Verb
+watch;zusehen, beobachten;Verb
+water;gießen;Verb
+wave;winken;Verb
+weigh;wiegen;Verb
+welcome;willkommen heißen;Verb
+whisper;flüstern;Verb
+whistle;pfeifen;Verb
+win;gewinnen;Verb
+wind;aufwickeln;Verb
+wipe;wischen;Verb
+wish;wünschen;Verb
+wonder;sich wundern;Verb
+work;arbeiten;Verb
+worry;sich sorgen;Verb
+wrap;einwickeln;Verb
+wagon;Wagen;Substantiv
+wall;Wand;Substantiv
+wallet;Geldbörse;Substantiv
+walnut;Walnuss;Substantiv
+walrus;Walross;Substantiv
+war;Krieg;Substantiv
+wardrobe;Kleiderschrank;Substantiv
+warehouse;Lagerhaus;Substantiv
+wasp;Wespe;Substantiv
+waste;Abfall;Substantiv
+waterfall;Wasserfall;Substantiv
+watermelon;Wassermelone;Substantiv
+wax;Wachs;Substantiv
+way;Weg;Substantiv
+week;Woche;Substantiv
+weight;Gewicht;Substantiv
+whale;Wal;Substantiv
+wheel;Rad;Substantiv
+window;Fenster;Substantiv
+wine;Wein;Substantiv
+winter;Winter;Substantiv
+wire;Draht;Substantiv
+wolf;Wolf;Substantiv
+woman;Frau;Substantiv
+wood;Holz;Substantiv
+word;Wort;Substantiv
+world;Welt;Substantiv
+worm;Wurm;Substantiv
+waitress;Kellnerin;Substantiv
+warm;warm;Adjektiv
+weak;schwach;Adjektiv
+wealthy;wohlhabend;Adjektiv
+wet;nass;Adjektiv
+wide;breit;Adjektiv
+wild;wild;Adjektiv
+wise;weise;Adjektiv
+wonderful;wunderbar;Adjektiv
+wooden;aus Holz;Adjektiv
+wrong;falsch;Adjektiv
+x-ray;Röntgenaufnahme;Substantiv
+xylophone;Xylophon;Substantiv
+xenon;Xenon;Substantiv
+xenophobia;Fremdenfeindlichkeit;Substantiv
+Xmas;Weihnachten (kurz für Christmas);Substantiv
+x-axis;x-Achse;Substantiv
+X-factor;das gewisse Etwas;Substantiv
+xerox;kopieren (umgangssprachlich);Verb
+yawn;gähnen;Verb
+yell;brüllen, rufen;Verb
+yodel;jodeln;Verb
+yearn;sich sehnen (nach);Verb
+yank;rupfen, zerren;Verb
+yacht;Jacht;Substantiv
+yak;Yak;Substantiv
+yarn;Garn;Substantiv
+year;Jahr;Substantiv
+yeast;Hefe;Substantiv
+yesterday;Gestern;Substantiv
+yoga;Yoga;Substantiv
+yoghurt;Joghurt;Substantiv
+yolk;Eigelb;Substantiv
+youth;Jugend;Substantiv
+yard;Hof;Substantiv
+yearbook;Jahrbuch;Substantiv
+yeti;Yeti;Substantiv
+yoyo;Jojo;Substantiv
+yurt;Jurte;Substantiv
+yellow;gelb;Adjektiv
+young;jung;Adjektiv
+yummy;lecker;Adjektiv
+youthful;jugendlich;Adjektiv
+yearly;jährlich;Adjektiv
+zigzag;zickzack laufen;Verb
+zip;auf- und zumachen (Reißverschluss);Verb
+zoom;zoomen;Verb
+zebra;Zebra;Substantiv
+zero;Null;Substantiv
+zephyr;warmer Westwind;Substantiv
+zipper;Reißverschluss;Substantiv
+zoo;Zoo;Substantiv
+zucchini;Zucchini;Substantiv
+zombie;Zombie;Substantiv
+zenith;Zenit;Substantiv
+zone;Zone;Substantiv
+zinc;Zink;Substantiv
+zeal;Eifer;Substantiv
+zany;versponnen;Adjektiv
+zealous;eifrig;Adjektiv
+zesty;würzig;Adjektiv
