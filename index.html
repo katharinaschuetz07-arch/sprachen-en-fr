@@ -4,26 +4,28 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The English for you · Le Français pour vous</title>
+<meta name="author" content="Katharina Schütz">
+<meta name="robots" content="noindex, nofollow">
 <style>
 :root{--navy:#012169;--red:#d31334;--cream:#faf6ee;--ink:#1c2333;--line:#e5dcc8;--ok:#1a7a3c;--no:#b3222e}
 body.fr{--navy:#0055A4;--red:#EF4135}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:Georgia,'Times New Roman',serif;background:var(--cream);color:var(--ink);min-height:100vh}
-header{position:sticky;top:0;z-index:30;background:linear-gradient(180deg,var(--navy),color-mix(in srgb,var(--navy) 85%,#fff));color:#fff;padding:10px 14px;box-shadow:0 2px 10px rgba(0,0,0,.25);border-bottom:3px solid var(--red)}
-.hrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;max-width:760px;margin:0 auto}
-hgroup{cursor:pointer;flex:1;min-width:170px}
-header h1{font-size:1.05rem;letter-spacing:.03em}
-header .sub{font-size:.68rem;opacity:.85;font-style:italic}
-nav{display:flex;gap:5px;flex-wrap:wrap;align-items:center}
-nav button{font-family:inherit;font-size:.74rem;padding:6px 10px;border-radius:999px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);color:#fff;cursor:pointer;transition:all .18s ease}
+header{position:sticky;top:0;z-index:30;background:linear-gradient(180deg,var(--navy),color-mix(in srgb,var(--navy) 85%,#fff));color:#fff;padding:14px 14px 12px;box-shadow:0 2px 10px rgba(0,0,0,.25);border-bottom:3px solid var(--red)}
+.hrow{display:block;max-width:760px;margin:0 auto}
+hgroup{cursor:pointer;text-align:center}
+header h1{font-size:1.15rem;letter-spacing:.02em;white-space:nowrap;line-height:1.35;margin:0}
+header .sub{display:block;font-size:.68rem;opacity:.85;font-style:italic;white-space:nowrap;line-height:1.3;margin-top:3px}
+nav{display:flex;gap:5px;flex-wrap:nowrap;align-items:center;justify-content:center;margin-top:9px}
+nav button{font-family:inherit;font-size:.66rem;padding:5px 8px;border-radius:999px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.08);color:#fff;cursor:pointer;transition:all .18s ease;white-space:nowrap}
 nav button:hover,nav button.on{background:#fff;color:var(--navy);border-color:#fff;transform:translateY(-1px)}
 #langBtn{background:rgba(255,255,255,.18);font-weight:bold}
-#cover{max-width:760px;margin:26px auto;padding:34px 26px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 30px rgba(0,0,0,.08)}
-#cover .flag{font-size:2.4rem}
-#cover h2{font-size:2.1rem;color:var(--navy);margin:8px 0 4px}
-#cover .kick{letter-spacing:.25em;text-transform:uppercase;font-size:.75rem;color:var(--red)}
-#cover p{font-style:italic;color:#555;margin-bottom:4px}
-#cover .author{font-size:.85rem;color:#777;margin:6px 0 18px}
+#cover{max-width:760px;margin:14px auto;padding:20px 14px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:16px;box-shadow:0 6px 22px rgba(0,0,0,.08)}
+#cover .flag{font-size:1.8rem}
+#cover h2{font-size:1.7rem;color:var(--navy);margin:6px 0 3px}
+#cover .kick{letter-spacing:.22em;text-transform:uppercase;font-size:.68rem;color:var(--red)}
+#cover p{font-style:italic;color:#555;margin-bottom:3px;font-size:.85rem}
+#cover .author{font-size:.75rem;color:#777;margin:8px 0 14px}
 .btn{font-family:inherit;font-size:1rem;padding:11px 26px;border-radius:999px;border:none;cursor:pointer;background:var(--navy);color:#fff;transition:transform .15s ease,box-shadow .15s ease}
 .btn:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(0,0,0,.3)}
 .btn.red{background:var(--red)}
@@ -76,14 +78,29 @@ th:nth-child(1){width:32%}th:nth-child(2){width:40%}th:nth-child(3){width:20%}th
 #chime.show{opacity:1}
 .confetti{position:fixed;top:-20px;font-size:1.3rem;animation:fall linear forwards;z-index:98;pointer-events:none}
 @keyframes fall{to{transform:translateY(105vh) rotate(540deg);opacity:.6}}
-footer{max-width:760px;margin:0 auto;padding:12px 10px 28px;text-align:center;font-size:.72rem;color:#8a8273;border-top:1px solid var(--line)}
-footer .flinks button{background:none;border:none;color:var(--navy);text-decoration:underline;cursor:pointer;font-family:inherit;font-size:.78rem;margin:0 6px}
-footer .arca{letter-spacing:.2em;color:#b0a88f;margin-top:6px}
+footer{max-width:760px;margin:0 auto;padding:10px 10px 24px;text-align:center;color:#8a8273;border-top:1px solid var(--line)}
+.frow{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.flink{background:none;border:none;color:var(--navy);text-decoration:underline;cursor:pointer;font-family:inherit;font-size:.78rem;padding:0}
+.fbundle{background:none;border:none;color:var(--navy);font-family:inherit;font-weight:bold;font-size:.76rem;letter-spacing:.14em;cursor:pointer;padding:0;transition:transform .2s ease}
+.fbundle:hover{transform:scale(1.06)}
+.fcopy{font-size:.68rem;color:#a39b87;margin-top:6px}
+.emblem{position:fixed;bottom:110px;left:50%;transform:translate(-50%,20px) scale(.9);opacity:0;pointer-events:none;z-index:60;
+  background:var(--navy);color:#fff;border-radius:14px;padding:16px 42px;text-align:center;min-width:340px;
+  box-shadow:0 12px 34px rgba(0,0,0,.35);transition:all .4s cubic-bezier(.34,1.4,.5,1)}
+.emblem.on{opacity:1;pointer-events:auto;transform:translate(-50%,0) scale(1);animation:sway 3.2s ease-in-out .45s infinite}
+@keyframes sway{0%,100%{transform:translate(-50%,0) scale(1) rotate(0deg)}25%{transform:translate(-50%,-6px) scale(1) rotate(2deg)}75%{transform:translate(-50%,2px) scale(1) rotate(-2deg)}}
+.emblem-word{font-weight:bold;font-size:1.12rem;letter-spacing:.12em}
+.emblem-studio{font-size:.7rem;letter-spacing:.3em;margin-top:3px;opacity:.95}
+.emblem-methode{font-size:.66rem;letter-spacing:.1em;margin-top:6px;opacity:.85}
+.emblem-close{color:#fff;opacity:.6;font-size:.62rem;margin-top:9px;letter-spacing:.05em}
 .overlay{display:none;position:fixed;inset:0;background:rgba(20,25,45,.55);z-index:50;align-items:flex-start;justify-content:center;padding:30px 14px;overflow:auto}
 .overlay.on{display:flex}
 .modal{background:var(--cream);border-radius:14px;max-width:640px;width:100%;padding:22px;box-shadow:0 12px 40px rgba(0,0,0,.3);border-top:5px solid var(--red)}
 .modal h3{color:var(--navy);margin-bottom:10px}
 .modal p{font-size:.9rem;margin-bottom:8px}
+.coverinfo{background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:9px 10px;margin:10px 0 4px;text-align:center}
+.coverinfo .ci{font-size:.76rem;color:#555;margin:4px 0;line-height:1.35}
+.coverinfo .ci strong{color:var(--navy)}
 .statgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px}
 .statbox{background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px;text-align:center}
 .statbox .n{font-size:1.6rem;color:var(--navy);font-weight:bold}
@@ -113,7 +130,12 @@ footer .arca{letter-spacing:.2em;color:#b0a88f;margin-top:6px}
     <div class="kick" id="cKick">Englisch lernen · leicht gemacht</div>
     <h2 id="cTitle">The English for you</h2>
     <p id="cSub">Your journey into the English language – Ihre Reise in die englische Sprache</p>
-    <div class="author" id="cAuthor">Eine Lern-App von Katharina Schütz · Zweisprachen-Edition v1.0</div>
+    <div class="coverinfo">
+      <div class="ci">🇬🇧🇫🇷 <strong>Englisch &amp; Französisch</strong> · umschaltbar mit einem Klick</div>
+      <div class="ci"><strong>Datenbank im Browser</strong> – Wörter eintragen oder ganze CSV-Datenbanken importieren</div>
+      <div class="ci"><strong>Alles bleibt lokal</strong> auf deinem Gerät – kein Server, keine Cloud</div>
+    </div>
+    <div class="author" id="cAuthor">Eine Lern-App von Katharina Schütz · Premium Edition · Version 2.9.7</div>
     <button class="btn" onclick="show('db')" id="cGo">Let's go! · Los geht's</button>
   </section>
 
@@ -213,19 +235,29 @@ footer .arca{letter-spacing:.2em;color:#b0a88f;margin-top:6px}
 </main>
 
 <footer>
-  <div id="fTitle">The English for you – eine Lern-App des Ella Pinorella Verlags · Alle Daten bleiben lokal auf deinem Gerät.</div>
-  <div class="flinks">
-    <button onclick="openModal('impModal')">Impressum</button> · <button onclick="openModal('dsModal')">Datenschutz</button>
+  <div class="frow">
+    <button class="flink" onclick="openModal('impModal')">Impressum</button>
+    <button class="fbundle" id="bundle" onclick="toggleBundle()" title="ARC(E)ANA">ARC(E)ANA</button>
+    <button class="flink" onclick="openModal('dsModal')">Datenschutz</button>
   </div>
-  <div class="arca">A · R · C (E) A · N · A</div>
+  <div class="fcopy">© 2026</div>
 </footer>
+
+<div class="emblem" id="emblem" onclick="toggleBundle()">
+  <div class="emblem-word">ARC(E)ANA</div>
+  <div class="emblem-studio">KREATIVSTUDIO</div>
+  <div class="emblem-methode">ENTDECKEN · ENTWICKELN · ERSCHAFFEN</div>
+  <div class="emblem-close">✕</div>
+</div>
 
 <div class="overlay" id="impModal" onclick="if(event.target===this)closeModal('impModal')">
   <div class="modal">
     <h3>Impressum</h3>
-    <p><strong>The English for you · Le Français pour vous · Zweisprachen-Edition</strong><br>Eine Lern-App des Ella Pinorella Verlags</p>
-    <p>Verantwortlich: Katharina Schütz</p>
-    <p>Diese App ist ein privates, nicht-kommerzielles Lernprojekt. Alle Inhalte dienen dem persönlichen Sprachenlernen.</p>
+    <p><strong>The English for you · Le Français pour vous – Zweisprachen-Edition</strong><br>Eine Lern-App des Ella Pinorella Verlags</p>
+    <p><strong>Verantwortlich:</strong><br>Katharina Schütz<br>Platz der Einheit 10<br>14467 Potsdam<br>Deutschland</p>
+    <p><strong>Projektcharakter:</strong> Diese App ist ein <strong>unverkäufliches Produkt</strong> und ein <strong>Prototyp</strong>. Sie wurde ausschließlich zum persönlichen Testen erstellt – als Erprobung der Möglichkeiten, die sich durch den Einsatz von Künstlicher Intelligenz bei der Erstellung browserbasierter Datenbanken ergeben.</p>
+    <p><strong>Urheberrecht:</strong> © 2026 Katharina Schütz · Alle Rechte vorbehalten. Die App darf <strong>nicht kopiert, verändert oder weitergegeben werden</strong> – weder ganz noch in Teilen – ohne die <strong>ausdrückliche Genehmigung</strong> von Katharina Schütz.</p>
+    <p>Eine Lern-App des Ella Pinorella Verlags · Alle Daten bleiben lokal auf deinem Gerät.</p>
     <div style="text-align:right;margin-top:14px"><button class="closex" onclick="closeModal('impModal')">✕ Schließen</button></div>
   </div>
 </div>
@@ -233,8 +265,11 @@ footer .arca{letter-spacing:.2em;color:#b0a88f;margin-top:6px}
 <div class="overlay" id="dsModal" onclick="if(event.target===this)closeModal('dsModal')">
   <div class="modal">
     <h3>Datenschutz</h3>
-    <p>Alle Lerninhalte und Datenbankeinträge werden ausschließlich <strong>lokal in deinem Browser</strong> verarbeitet und gespeichert (IndexedDB). Es werden keine Daten an Server übertragen, keine Tracking-Cookies verwendet und keine personenbezogenen Daten erhoben.</p>
-    <p>Die Sprachausgabe erfolgt über die eingebaute Sprachfunktion deines Geräts.</p>
+    <p><strong>1. Datenerhebung:</strong> Durch diese App werden <strong>keinerlei Daten von Katharina Schütz oder dem Ella Pinorella Verlags erhoben, gespeichert oder verarbeitet</strong>. Es gibt keine Server-Anbindung, keine Cloud-Speicherung, kein Tracking und keine Analyse-Tools.</p>
+    <p><strong>2. Lokale Speicherung:</strong> Alle Lerninhalte und Datenbankeinträge werden ausschließlich <strong>lokal im Browser deines Geräts</strong> gespeichert (IndexedDB, mit lokalem Fallback). Du hast jederzeit die volle Kontrolle: Einträge kannst du in der App selbst bearbeiten oder löschen, die komplette Datenbank über die Löschen-Funktion oder die Browser-Einstellungen entfernen.</p>
+    <p><strong>3. Cookies:</strong> Es werden keine Cookies gesetzt. Ausnahmen sind zwei rein lokale Einstellungen (gewählte Sprache), die ebenfalls nur auf deinem Gerät gespeichert werden.</p>
+    <p><strong>4. Sprachausgabe:</strong> Die Vorlesefunktion nutzt die eingebaute Sprachausgabe deines Geräts. Dabei verlassen deine Daten das Gerät nicht.</p>
+    <p><strong>5. Externe Dienste:</strong> Wird die App über GitHub Pages aufgerufen, gilt zusätzlich die Datenschutzerklärung von GitHub für die Auslieferung der Seite. Die App selbst sendet keine Daten an GitHub.</p>
     <div style="text-align:right;margin-top:14px"><button class="closex" onclick="closeModal('dsModal')">✕ Schließen</button></div>
   </div>
 </div>
@@ -245,11 +280,11 @@ footer .arca{letter-spacing:.2em;color:#b0a88f;margin-top:6px}
 /* ---------- Sprache & Texte ---------- */
 let LANG=localStorage.getItem('appLang')||'en';
 const TXT={
- en:{flag:'🇬🇧',title:'The English for you',sub:'Datenbank-Edition · Your journey into the English language',
+ en:{flag:'🇬🇧',title:'The English for you',sub:'Premium Edition',
      kick:'Englisch lernen · leicht gemacht',csub:'Your journey into the English language – Ihre Reise in die englische Sprache',
      colName:'Englisch',speech:'en-GB',fileBase:'english',fanfareEm:['🇬🇧','❀','👑'],
      perfect:'Perfect! Alles richtig – vielleicht will der Herr Graf ein Tänzchen nun wagen! 💃'},
- fr:{flag:'🇫🇷',title:'Le Français pour vous',sub:'Édition base de données · Votre voyage dans la langue française',
+ fr:{flag:'🇫🇷',title:'Le Français pour vous',sub:'Premium Edition',
      kick:'Französisch lernen · leicht gemacht',csub:'Votre voyage dans la langue française – Ihre Reise in die französische Sprache',
      colName:'Französisch',speech:'fr-FR',fileBase:'francais',fanfareEm:['🇫🇷','❀','⚜'],
      perfect:'Parfait! Alles richtig – vielleicht will der Herr Graf ein Tänzchen nun wagen! 💃'}};
@@ -261,7 +296,6 @@ function applyLang(){const t=TXT[LANG];
   document.getElementById('cTitle').textContent=t.title;
   document.getElementById('cKick').textContent=t.kick;
   document.getElementById('cSub').textContent=t.csub;
-  document.getElementById('fTitle').textContent=t.title+' – eine Lern-App des Ella Pinorella Verlags · Alle Daten bleiben lokal auf deinem Gerät.';
   document.getElementById('thA').textContent=t.colName;
   document.getElementById('lA').textContent=t.colName;
   document.getElementById('cardL1').textContent=t.colName.toUpperCase();
@@ -310,6 +344,7 @@ function show(id){document.querySelectorAll('.view').forEach(v=>v.classList.remo
   if(id==='testview')startTest();}
 function openModal(id){document.getElementById(id).classList.add('on')}
 function closeModal(id){document.getElementById(id).classList.remove('on')}
+function toggleBundle(){document.getElementById('emblem').classList.toggle('on')}
 
 /* ---------- Datenbank-UI ---------- */
 let curLetter='';
